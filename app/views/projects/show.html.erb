@@ -1,0 +1,80 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Project:</b>
+  <%= @project.project_id %>
+</p>
+
+<p>
+  <b>Title:</b>
+  <%= @project.title %>
+</p>
+
+<p>
+  <b>Title orig lang:</b>
+  <%= @project.title_orig_lang %>
+</p>
+
+<p>
+  <b>Summary:</b>
+  <%= @project.summary %>
+</p>
+
+<p>
+  <b>Channel:</b>
+  <%= @project.channel %>
+</p>
+
+<p>
+  <b>Amount:</b>
+  <%= @project.amount %>
+</p>
+
+<p>
+  <b>Implementer:</b>
+  <%= @project.implementer %>
+</p>
+
+<p>
+  <b>Cluster:</b>
+  <%= @project.cluster %>
+</p>
+
+<p>
+  <b>Npp:</b>
+  <%= @project.npp %>
+</p>
+
+<p>
+  <b>Status:</b>
+  <%= @project.status %>
+</p>
+
+<p>
+  <b>Provinces:</b>
+  <%= @project.provinces %>
+</p>
+
+<p>
+  <b>Start date:</b>
+  <%= @project.start_date %>
+</p>
+
+<p>
+  <b>End date:</b>
+  <%= @project.end_date %>
+</p>
+
+<p>
+  <b>Objective:</b>
+  <%= @project.objective %>
+</p>
+
+<p>
+  <b>Results:</b>
+  <%= @project.results %>
+</p>
+
+
+<%= link_to 'Edit', edit_project_path(@project) %> |
+<%= link_to 'Back', projects_path %>
