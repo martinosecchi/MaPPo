@@ -1,4 +1,5 @@
 <%= form_for(@project) do |f| %>
+
   <% if @project.errors.any? %>
     <div id="error_explanation">
       <h2><%= pluralize(@project.errors.count, "error") %> prohibited this project from being saved:</h2>
@@ -12,27 +13,27 @@
   <% end %>
 
   <div class="field">
-    <%= f.label :project_id %><br />
+    <%= f.label :project_id, "Project ID" %><br />
     <%= f.number_field :project_id %>
   </div>
   <div class="field">
-    <%= f.label :title %><br />
+    <%= f.label :title, "Project title"%><br />
     <%= f.text_field :title %>
   </div>
   <div class="field">
-    <%= f.label :title_orig_lang %><br />
+    <%= f.label :title_orig_lang, "Project title in original language" %><br />
     <%= f.text_field :title_orig_lang %>
   </div>
   <div class="field">
     <%= f.label :summary %><br />
-    <%= f.text_area :summary %>
+    <%= f.text_area :summary, :size => "50x50" %>
   </div>
   <div class="field">
     <%= f.label :channel %><br />
     <%= f.text_field :channel %>
   </div>
   <div class="field">
-    <%= f.label :amount %><br />
+    <%= f.label :amount, "Commitment Amount (euro)"%><br />
     <%= f.number_field :amount %>
   </div>
   <div class="field">
@@ -56,11 +57,11 @@
     <%= f.text_field :provinces %>
   </div>
   <div class="field">
-    <%= f.label :start_date %><br />
+    <%= f.label :start_date, "Starting date"%><br />
     <%= f.date_select :start_date %>
   </div>
   <div class="field">
-    <%= f.label :end_date %><br />
+    <%= f.label :end_date, "Ending date"%><br />
     <%= f.date_select :end_date %>
   </div>
   <div class="field">
@@ -74,4 +75,5 @@
   <div class="actions">
     <%= f.submit %>
   </div>
+
 <% end %>

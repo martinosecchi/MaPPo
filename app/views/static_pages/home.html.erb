@@ -1,0 +1,15 @@
+<% provide(:title, 'Home') %>
+<div class="center hero-unit">
+  <h1>Home</h1>
+
+  <p>This is the home page for the application</p>
+
+  <div style='width: 800px;'>
+  	<div id="map" style='width: 800px; height: 400px;'></div>
+  	<!--qui sotto metto un'altra division per mostrare una lista dei progetti presenti nell'area selezionata-->
+  </div>
+
+  <!-- o magari qui -->
+
+  <%= link_to "See the projects", projects_path, class: "btn btn-large" %>
+</div>

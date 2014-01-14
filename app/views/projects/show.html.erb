@@ -1,17 +1,20 @@
 <p id="notice"><%= notice %></p>
 
+
+<h2><%= @project.title %></h2>
+
 <p>
-  <b>Project:</b>
+  <b>Project ID:</b>
   <%= @project.project_id %>
 </p>
 
 <p>
-  <b>Title:</b>
+  <b>Project title:</b>
   <%= @project.title %>
 </p>
 
 <p>
-  <b>Title orig lang:</b>
+  <b>Project title in original language:</b>
   <%= @project.title_orig_lang %>
 </p>
 
@@ -26,7 +29,7 @@
 </p>
 
 <p>
-  <b>Amount:</b>
+  <b>Commitment Amount (euro):</b>
   <%= @project.amount %>
 </p>
 
@@ -41,7 +44,7 @@
 </p>
 
 <p>
-  <b>Npp:</b>
+  <b>NPP:</b>
   <%= @project.npp %>
 </p>
 
@@ -56,13 +59,13 @@
 </p>
 
 <p>
-  <b>Start date:</b>
-  <%= @project.start_date %>
+  <b>Starting date:</b>
+  <%= @project.start_date.strftime("%d/%m/%Y") %>
 </p>
 
 <p>
-  <b>End date:</b>
-  <%= @project.end_date %>
+  <b>Ending date:</b>
+  <%= @project.end_date.strftime("%d/%m/%Y") %>
 </p>
 
 <p>
@@ -71,7 +74,7 @@
 </p>
 
 <p>
-  <b>Results:</b>
+  <b>Results/Activities:</b>
   <%= @project.results %>
 </p>
 

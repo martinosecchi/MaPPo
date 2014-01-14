@@ -1,10 +1,40 @@
+<% provide(:title, 'Listing projects') %>
+
+<h1>Listing projects</h1>
+<table>
+  <tr>
+    <th>Project ID</th>
+    <th>Project Title</th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @projects.each do |project| %>
+  <tr>
+    <td><%= project.project_id %></td>
+    <td><%= link_to project.title, project %></td>
+    
+    <td><%= link_to "Edit", edit_project_path(project) %></td>
+    <td><%= link_to "Delete", project, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+
+
+
+</table>
+
+<br />
+
+<%= link_to 'Add Project', new_project_path %>
+
+<!--
 <h1>Listing projects</h1>
 
 <table>
   <tr>
-    <th>Project</th>
-    <th>Title</th>
-    <th>Title orig lang</th>
+    <th>Project ID</th>
+    <th>Project Title</th>
+    <th>Project Title in original language</th>
     <th>Summary</th>
     <th>Channel</th>
     <th>Amount</th>
@@ -13,10 +43,10 @@
     <th>Npp</th>
     <th>Status</th>
     <th>Provinces</th>
-    <th>Start date</th>
-    <th>End date</th>
+    <th>Starting date</th>
+    <th>Ending date</th>
     <th>Objective</th>
-    <th>Results</th>
+    <th>Results/Activities</th>
     <th></th>
     <th></th>
     <th></th>
@@ -41,11 +71,15 @@
     <td><%= project.results %></td>
     <td><%= link_to 'Show', project %></td>
     <td><%= link_to 'Edit', edit_project_path(project) %></td>
-    <td><%= link_to 'Destroy', project, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+    <td><%= link_to 'Delete', project, method: :delete, data: { confirm: 'Are you sure?' } %></td>
   </tr>
 <% end %>
+
+
+
 </table>
 
 <br />
 
-<%= link_to 'New Project', new_project_path %>
+<%= link_to 'Add Project', new_project_path %>
+-->
