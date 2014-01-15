@@ -1,9 +1,13 @@
 <h1>Listing locations</h1>
 
+<div id="map_canvas" align=center>
+  <%= gmaps4rails(@json) %>
+</div>
+
 <table>
   <tr>
     <th>Name</th>
-    <th>Projects</th>
+    <th>State</th>
     <th></th>
     <th></th>
   </tr>
@@ -11,13 +15,12 @@
 <% @locations.each do |location| %>
   <tr>
     <td><%= link_to location.name, location %></td>
-    <td><%= link_to "full list", '#'%></td>
+    <td><%= location.state %></td>
     <td><%= link_to 'Edit', edit_location_path(location) %></td>
-    <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+    <td><%= link_to 'Delete', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
   </tr>
 <% end %>
 </table>
 
 <br />
-
 <%= link_to 'New Location', new_location_path %>

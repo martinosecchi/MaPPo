@@ -3,6 +3,7 @@ class LocationsController < ApplicationController
   # GET /locations.json
   def index
     @locations = Location.all
+    @json = Location.all.to_gmaps4rails
 
     respond_to do |format|
       format.html # index.html.erb
@@ -14,7 +15,8 @@ class LocationsController < ApplicationController
   # GET /locations/1.json
   def show
     @location = Location.find(params[:id])
-
+    @json = Location.find(params[:id]).to_gmaps4rails
+    
     respond_to do |format|
       format.html # show.html.erb
       format.json { render json: @location }

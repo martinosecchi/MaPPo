@@ -5,14 +5,14 @@
   <p>This is the home page for the application</p>
 
   <div style='width: 800px;'>
-  	<div id="map" style='width: 800px; height: 500px;'>
+  	<div id="map_canvas" style='width: 800px; height: 500px;'>
       <%= gmaps4rails(@json) %>
   	</div>
   	<!--qui sotto metto un'altra division per mostrare una lista dei progetti presenti nell'area selezionata-->
   </div>
 
   <!-- o magari qui -->
-
+</br>
   <%= link_to "See the projects", projects_path, class: "btn btn-large" %>
 </br>
   <%= link_to "Locations", locations_path %>
