@@ -11,7 +11,12 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20140113155029) do
+ActiveRecord::Schema.define(:version => 20140115085402) do
+
+  create_table "loc_proc", :id => false, :force => true do |t|
+    t.integer "locations_id"
+    t.integer "projects_id"
+  end
 
   create_table "locations", :force => true do |t|
     t.string   "name"

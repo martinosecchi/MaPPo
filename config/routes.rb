@@ -1,13 +1,13 @@
 Afghanistan::Application.routes.draw do
   
   resources :locations
+  resources :projects
 
-
-  root to: 'static_pages#home'
+  #root to: => 'static_pages#home'
 
   match '/home', to: 'static_pages#home'
 
-  resources :projects
+  
 
 
   # The priority is based upon order of creation:

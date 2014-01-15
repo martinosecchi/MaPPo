@@ -26,5 +26,5 @@
 
 class Project < ActiveRecord::Base
   attr_accessible :amount, :channel, :cluster, :end_date, :implementer, :npp, :objective, :project_id, :provinces, :results, :start_date, :status, :summary, :title, :title_orig_lang
-  has_and_belongs_to_many :locations
+  has_and_belongs_to_many :locations, inverse_of: :projects, join_table: "loc_proc"
 end

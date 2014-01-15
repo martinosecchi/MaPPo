@@ -13,6 +13,11 @@
 #
 
 class Location < ActiveRecord::Base
+	acts_as_gmappable
   attr_accessible :gmaps, :latitude, :longitude, :name, :state
-  has_and_belongs_to_many :projects
+  has_and_belongs_to_many :projects, inverse_of: :locations, join_table: "loc_proc"
+
+  def gmaps4rails_address
+  		:name, :state => "gmaps4rails_address"
+  end
 end
