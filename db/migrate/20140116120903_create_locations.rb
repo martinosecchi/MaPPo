@@ -1,5 +1,5 @@
 class CreateLocations < ActiveRecord::Migration
-  def change
+  def up
     create_table :locations do |t|
       t.string :name
       t.string :state
@@ -9,5 +9,8 @@ class CreateLocations < ActiveRecord::Migration
 
       t.timestamps
     end
+  end
+  def down
+    drop_table :locations
   end
 end

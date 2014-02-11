@@ -1,4 +1,6 @@
 class ProjectsController < ApplicationController
+  before_filter :authenticate_user!, :except => [:show, :index]
+
   # GET /projects
   # GET /projects.json
   def index
@@ -15,6 +17,10 @@ class ProjectsController < ApplicationController
   def show
     @project = Project.find(params[:id])
 
+    @json=@project.locations.to_gmaps4rails do |location, marker|
+      marker.infowindow render_to_string(:partial => "/locations/infowindow", :locals => { :location => location})
+    end
+    
     respond_to do |format|
       format.html # show.html.erb
       format.json { render json: @project }
@@ -25,6 +31,7 @@ class ProjectsController < ApplicationController
   # GET /projects/new.json
   def new
     @project = Project.new
+    @project.locations.build
 
     respond_to do |format|
       format.html # new.html.erb
@@ -35,6 +42,7 @@ class ProjectsController < ApplicationController
   # GET /projects/1/edit
   def edit
     @project = Project.find(params[:id])
+
   end
 
   # POST /projects
@@ -57,6 +65,8 @@ class ProjectsController < ApplicationController
   # PUT /projects/1.json
   def update
     @project = Project.find(params[:id])
+
+    params[:project][:location_ids] ||= []
 
     respond_to do |format|
       if @project.update_attributes(params[:project])

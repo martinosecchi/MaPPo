@@ -3,11 +3,14 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.16'
 gem 'bootstrap-sass', '2.1'
 gem 'gmaps4rails', '1.5.6'
+gem 'devise'
 #gem 'bcrypt-ruby', '3.0.1'
 gem 'faker', '1.0.1'
 gem 'will_paginate', '3.0.3'
 gem 'bootstrap-will_paginate', '0.0.6'
 gem 'jquery-rails', '2.0.2'
+gem 'bootstrap-datepicker-rails'
+
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
@@ -38,8 +41,4 @@ group :test do
   # gem 'launchy', '2.1.0'
   # gem 'rb-fsevent', '0.9.1', :require => false
   # gem 'growl', '1.0.3'
-end
-
-group :production do
-  gem 'sqlite3', '1.3.5'
 end

@@ -1,0 +1,16 @@
+<% provide(:title, 'Listing projects') %>
+
+<h1>Projects in <%= @location.name %></h1>
+<p>
+  <b>
+  Projects found:
+  </b>
+   <%=@location.projects.length%>
+</p>
+<div class="hero-unit">
+  <%= render 'listprojloc' %>
+
+</div>
+
+<br />
+<%= link_to "Back", :back %>

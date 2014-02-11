@@ -3,6 +3,21 @@
 
 <h2><%= @project.title %></h2>
 
+<div class="hero-unit">
+<div class="center">
+<div id="map_canvas">
+  <%= 
+  if @project.locations!=[] 
+    gmaps("markers" => {"data" => @json}, "map_options" => {"processing" => "json", "auto_zoom" => false, "zoom" => 6})
+    else
+      "<No locations found>"
+    end %>
+</div>
+</div>
+
+
+</br>
+</br>
 <p>
   <b>Project ID:</b>
   <%= @project.project_id %>
@@ -60,12 +75,20 @@
 
 <p>
   <b>Starting date:</b>
-  <%= @project.start_date.strftime("%d/%m/%Y") %>
+  <%= 
+  if @project.start_date!=nil
+  @project.start_date.strftime("%d/%m/%Y")
+  end 
+  %>
 </p>
 
 <p>
   <b>Ending date:</b>
-  <%= @project.end_date.strftime("%d/%m/%Y") %>
+  <%= 
+  if (@project.end_date!=nil)
+    @project.end_date.strftime("%d/%m/%Y")
+  end 
+  %>
 </p>
 
 <p>
@@ -77,7 +100,9 @@
   <b>Results/Activities:</b>
   <%= @project.results %>
 </p>
+</div>
 
-
+<% if user_signed_in? %>
 <%= link_to 'Edit', edit_project_path(@project) %> |
-<%= link_to 'Back', projects_path %>
+<%= link_to 'Delete', @project, method: :delete, data: { confirm: 'Are you sure?' } %>
+<% end %>

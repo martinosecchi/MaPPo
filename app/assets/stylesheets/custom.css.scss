@@ -13,10 +13,6 @@ section {
   overflow: auto;
 }
 
-textarea {
-  resize: vertical;
-}
-
 .center {
   text-align: center;
 }
@@ -80,4 +76,47 @@ footer ul {
 footer ul li {
   float: left;
   margin-left: 10px;
+}
+
+/* ------- sidebar ------- */
+
+#sidebar {
+  height: 100%;
+  padding-right: 0;
+  padding-top: 80px;
+}
+#sidebar .nav {
+  width: 95%;
+}
+#sidebar li {
+  border:0 #f2f2f2 solid;
+}
+
+/* ------- form elements ------- */
+
+label, input, textarea { /* Stili comuni agli elementi del form */
+    margin: 0px 0; /* Margini */
+    width: 500px;
+}
+label { 
+    font-weight: bold;
+    display: block; /* Impostiamo la label come elemento blocco */
+    line-height: 20px; /* Altezza di riga */
+    width: 300px; /* Larghezza */
+}
+ 
+input, textarea { /* Stili per il campo di testo e per la textarea */
+    height: 30px; /* Altezza */
+    line-height: 30px; /* Altezza di riga */
+    width: 500px; /* Larghezza */
+    padding: 0 10px; /* Padding */
+}
+ 
+input { padding-left: 30px;}
+ 
+textarea { 
+    font-size: 12px;
+    height: 200px;
+    width: 500px;
+    overflow: hidden; /* disabilitare la scrollbar in IE */
 }

@@ -1,33 +1,39 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <b>Name:</b>
-  <%= @location.name %>
-</p>
+<h1><%= @location.name %></h1>
 
-<p>
-  <b>State:</b>
-  <%= @location.state %>
-</p>
+<div class="hero-unit">
+<table class="table table-condensed table-bordered">
+  <tr>
+    <th>Name</th>
+    <th>State</th>
+    <th>Projects</th>
+  </tr>
 
-<p>
-  <b>Latitude:</b>
-  <%= @location.latitude %>
-</p>
 
-<p>
-  <b>Longitude:</b>
-  <%= @location.longitude %>
-</p>
+  <tr>
+    <td><%= @location.name %></td>
+    <td><%= @location.state %></td>
+    <td><%= @location.projects.length%></td>
+  </tr>
 
-<p>
-  <b>Gmaps:</b>
-  <%= @location.gmaps %>
-</p>
+</table>
 
+<div class="center">
 <div id="map_canvas">
-  <%= gmaps4rails(@json) %>
+  <%= gmaps("markers" => {"data" => @json}, "map_options" => {"processing" => "json", "auto_zoom" => false, "zoom" => 6}) %>
+</div>
 </div>
 
+<br />
+<br />
+<h4 align='center'>Projects in <%= @location.name %></h4>
+
+  <%= render 'listprojloc' %>
+
+</div>
+
+<% if user_signed_in? %>
 <%= link_to 'Edit', edit_location_path(@location) %> |
-<%= link_to 'Back', locations_path %>
+<%= link_to 'Delete', @location, method: :delete, data: { confirm: 'Are you sure?' } %>
+<% end %>

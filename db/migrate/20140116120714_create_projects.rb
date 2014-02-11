@@ -1,12 +1,12 @@
 class CreateProjects < ActiveRecord::Migration
-  def change
+  def up
     create_table :projects do |t|
       t.integer :project_id
       t.string :title
       t.string :title_orig_lang
       t.text :summary
       t.string :channel
-      t.integer :amount
+      t.string :amount
       t.string :implementer
       t.string :cluster
       t.string :npp
@@ -19,5 +19,8 @@ class CreateProjects < ActiveRecord::Migration
 
       t.timestamps
     end
+  end
+  def down
+    drop_table :projects
   end
 end

@@ -1,0 +1,26 @@
+<% provide(:title, 'Home') %>
+<h1>Home</h1>
+<div class="hero-unit">
+	<p class="center">See where the projects are</p>
+ 	<div id="map_canvas">
+    	<%= gmaps4rails(@json) %>
+  	</div>
+  	<br />
+  	<div class="center">
+  	
+  	<% if user_signed_in? %>
+		<%= link_to '<button class="btn">Create a New Project</button>'.html_safe, new_project_path %> 
+    <br />
+    or
+	 <br />
+		<%= link_to '<button class="btn">Add a New Location</button>'.html_safe, new_location_path %>
+	<% else %>	
+    	<%= link_to '<button class="btn">Login</button>'.html_safe, new_user_session_path %>
+    	<br />
+    	<br />
+    	not a member?
+    	<br />
+    	<%= link_to '<button class="btn">Sign Up</button>'.html_safe, new_user_registration_path %>
+	<% end %>
+	</div>
+</div>

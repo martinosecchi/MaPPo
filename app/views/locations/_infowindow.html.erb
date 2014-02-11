@@ -1,0 +1,5 @@
+<div align="center">
+	<h4> <%= link_to  "#{location.name} #{location.state}",  location %> </h4>
+	<p> projects found: <%=location.projects.length%>  </p>
+	<%= link_to  "<button class='btn'>show</button>".html_safe, projects_of_url(:id => location.id)%>
+</div>

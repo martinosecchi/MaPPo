@@ -64,5 +64,8 @@ module Afghanistan
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+
+    #devise - passwords not logged
+    config.filter_parameters += [:password, :password_confirmation]
   end
 end

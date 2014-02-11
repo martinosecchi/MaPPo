@@ -12,68 +12,98 @@
     </div>
   <% end %>
 
+<div class="hero-unit">
   <div class="field">
-    <%= f.label :project_id, "Project ID" %><br />
+    <%= f.label :project_id, "Project ID"%>
     <%= f.number_field :project_id %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :title, "Project title"%><br />
+    <%= f.label :title, "Project title"%>
     <%= f.text_field :title %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :title_orig_lang, "Project title in original language" %><br />
+    <%= f.label :title_orig_lang, "Project title in original language" %>
     <%= f.text_field :title_orig_lang %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :summary %><br />
-    <%= f.text_area :summary, :size => "50x50" %>
+    <%= f.label :summary %>
+    <%= f.text_area :summary%>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :channel %><br />
+    <%= f.label :channel %>
     <%= f.text_field :channel %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :amount, "Commitment Amount (euro)"%><br />
+    <%= f.label :amount, "Commitment Amount (euro)"%>
     <%= f.number_field :amount %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :implementer %><br />
+    <%= f.label :implementer %>
     <%= f.text_field :implementer %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :cluster %><br />
+    <%= f.label :cluster %>
     <%= f.text_field :cluster %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :npp %><br />
+    <%= f.label :npp, "NPP" %>
     <%= f.text_field :npp %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :status %><br />
+    <%= f.label :status %>
     <%= f.text_field :status %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :provinces %><br />
+    <%= f.label :provinces %>
     <%= f.text_field :provinces %>
   </div>
-  <div class="field">
-    <%= f.label :start_date, "Starting date"%><br />
-    <%= f.date_select :start_date %>
+  <div>
+    <%=f.label :locations, "Mappable Locations"%>
+    <ul class="checkbox-grid">
+    <% for location in Location.find(:all) %>
+      <li>
+        <%= check_box_tag "project[location_ids][]", location.id, @project.locations.include?(location) %>
+        <%= location.name %>
+    <% end %>
+    </ul>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :end_date, "Ending date"%><br />
-    <%= f.date_select :end_date %>
+    <%= f.label :start_date, "Starting date"%> 
+    <!--<%= f.date_select :start_date%>-->
+    <%= f.text_field :start_date, :class => 'datepicker'%>
+ </div>
+  <br />
+  <div class="field">
+    <%= f.label :end_date, "Ending date"%>
+<!--<%= f.date_select :end_date%>-->
+  <%= f.text_field :end_date, :class => 'datepicker'%>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :objective %><br />
+    <%= f.label :objective %>
     <%= f.text_area :objective %>
   </div>
+  <br />
   <div class="field">
-    <%= f.label :results %><br />
+    <%= f.label :results, "Results / Activities" %>
     <%= f.text_area :results %>
   </div>
+
+  </br>
+  </br>
   <div class="actions">
     <%= f.submit %>
   </div>
-
+</div><!-- form -->
 <% end %>

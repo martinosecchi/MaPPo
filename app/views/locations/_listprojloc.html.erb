@@ -1,0 +1,16 @@
+<table class="table">
+  <tr>
+    <th>Project ID</th>
+    <th>Project Title</th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @location.projects.each do |project| %>
+  <tr>
+    <td><%= project.project_id %></td>
+    <td><%= link_to project.title, project %></td>
+  </tr>
+<% end %>
+
+</table>

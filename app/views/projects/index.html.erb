@@ -1,7 +1,8 @@
-<% provide(:title, 'Listing projects') %>
+<% provide(:title, 'Listing all projects') %>
 
-<h1>Listing projects</h1>
-<table>
+<h1>Listing all projects</h1>
+<div class="hero-unit">
+<table class="table">
   <tr>
     <th>Project ID</th>
     <th>Project Title</th>
@@ -13,73 +14,17 @@
   <tr>
     <td><%= project.project_id %></td>
     <td><%= link_to project.title, project %></td>
-    
+    <% if user_signed_in? %>
     <td><%= link_to "Edit", edit_project_path(project) %></td>
     <td><%= link_to "Delete", project, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+    <% end %>
   </tr>
 <% end %>
 
-
-
 </table>
-
-<br />
-
-<%= link_to 'Add Project', new_project_path %>
-
-<!--
-<h1>Listing projects</h1>
-
-<table>
-  <tr>
-    <th>Project ID</th>
-    <th>Project Title</th>
-    <th>Project Title in original language</th>
-    <th>Summary</th>
-    <th>Channel</th>
-    <th>Amount</th>
-    <th>Implementer</th>
-    <th>Cluster</th>
-    <th>Npp</th>
-    <th>Status</th>
-    <th>Provinces</th>
-    <th>Starting date</th>
-    <th>Ending date</th>
-    <th>Objective</th>
-    <th>Results/Activities</th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-
-<% @projects.each do |project| %>
-  <tr>
-    <td><%= project.project_id %></td>
-    <td><%= project.title %></td>
-    <td><%= project.title_orig_lang %></td>
-    <td><%= project.summary %></td>
-    <td><%= project.channel %></td>
-    <td><%= project.amount %></td>
-    <td><%= project.implementer %></td>
-    <td><%= project.cluster %></td>
-    <td><%= project.npp %></td>
-    <td><%= project.status %></td>
-    <td><%= project.provinces %></td>
-    <td><%= project.start_date %></td>
-    <td><%= project.end_date %></td>
-    <td><%= project.objective %></td>
-    <td><%= project.results %></td>
-    <td><%= link_to 'Show', project %></td>
-    <td><%= link_to 'Edit', edit_project_path(project) %></td>
-    <td><%= link_to 'Delete', project, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-  </tr>
+<% if user_signed_in? %>
+<%= link_to '+ Add Project', new_project_path %>
 <% end %>
-
-
-
-</table>
-
+</div>
 <br />
-
-<%= link_to 'Add Project', new_project_path %>
--->
+<%= link_to "Back", :back %>

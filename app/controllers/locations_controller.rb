@@ -1,9 +1,12 @@
 class LocationsController < ApplicationController
+  before_filter :authenticate_user!, :except => [:show, :index, :projects_of]
   # GET /locations
   # GET /locations.json
   def index
     @locations = Location.all
-    @json = Location.all.to_gmaps4rails
+    @json = @locations.to_gmaps4rails do |location, marker|
+      marker.infowindow render_to_string(:partial => "/locations/infowindow", :locals => { :location => location})
+    end
 
     respond_to do |format|
       format.html # index.html.erb
@@ -15,8 +18,10 @@ class LocationsController < ApplicationController
   # GET /locations/1.json
   def show
     @location = Location.find(params[:id])
-    @json = Location.find(params[:id]).to_gmaps4rails
-    
+    @json = Location.find(params[:id]).to_gmaps4rails do |location, marker|
+      marker.infowindow render_to_string(:partial => "/locations/infowindow", :locals => { :location => location})
+      marker.title "#{location.name}"
+    end
     respond_to do |format|
       format.html # show.html.erb
       format.json { render json: @location }
@@ -37,6 +42,11 @@ class LocationsController < ApplicationController
   # GET /locations/1/edit
   def edit
     @location = Location.find(params[:id])
+  end
+
+  #GET /locations/1/projects_of
+  def projects_of
+    @location=Location.find(params[:id])
   end
 
   # POST /locations

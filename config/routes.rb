@@ -1,14 +1,20 @@
 Afghanistan::Application.routes.draw do
   
-  resources :locations
-  resources :projects
-
-  #root to: => 'static_pages#home'
-
-  match '/home', to: 'static_pages#home'
-
+  root to: 'pages#home'
   
+  devise_for :users
+  resources :users
 
+  resources :locations
+    
+  resources :projects 
+
+  match '/howto', to: 'pages#howto'
+  match '/home', to: 'pages#home'
+  match '/locations/:id/projects_of', to: 'locations#projects_of', :as => :projects_of
+  
+  #projects_of_url(:id => @location.id)
+  #url_for(:controller => 'locations', :action => 'projects_of')
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

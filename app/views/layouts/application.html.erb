@@ -10,9 +10,19 @@
   <body>
     <%= render 'layouts/header' %>
     <div class="container">
-      <%= yield %>
-      <%= yield :scripts %>
-      <%= render 'layouts/footer' %>
+      <div class="container-fluid">
+        <div class="row-fluid">
+          <div class="span2">
+            <%= render 'layouts/sidebar'%>
+          </div>
+          <div class="span10">
+            <%= render 'layouts/messages' %>
+            <%= yield %>
+            <%= yield :scripts %>
+            <%= render 'layouts/footer' %>
+          </div>
+        </div> <!--row-fluid -->
+      </div>
     </div>
   </body>
 </html>
