@@ -20,7 +20,6 @@
 #  results         :text
 #  created_at      :datetime         not null
 #  updated_at      :datetime         not null
-#  gmaps_location  :string(255)
 #
 
 class Project < ActiveRecord::Base

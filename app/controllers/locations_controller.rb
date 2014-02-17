@@ -4,6 +4,7 @@ class LocationsController < ApplicationController
   # GET /locations.json
   def index
     @locations = Location.all
+    @sorted_locations = Location.find(:all, :order => :name)
     @json = @locations.to_gmaps4rails do |location, marker|
       marker.infowindow render_to_string(:partial => "/locations/infowindow", :locals => { :location => location})
     end

@@ -70,12 +70,15 @@
   <div>
     <%=f.label :locations, "Mappable Locations"%>
     <ul class="checkbox-grid">
-    <% for location in Location.find(:all) %>
+    <% for location in Location.find(:all, :order => :name) %>
       <li>
         <%= check_box_tag "project[location_ids][]", location.id, @project.locations.include?(location) %>
         <%= location.name %>
     <% end %>
     </ul>
+    <div align="right">
+      <%= link_to "+ New Location", new_location_path %>
+    </div>
   </div>
   <br />
   <div class="field">

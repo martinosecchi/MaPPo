@@ -4,7 +4,7 @@ describe "locations/edit" do
   before(:each) do
     @location = assign(:location, stub_model(Location,
       :name => "MyString",
-      :state => "MyString",
+      :country => "MyString",
       :latitude => 1.5,
       :longitude => 1.5,
       :gmaps => false
@@ -17,7 +17,7 @@ describe "locations/edit" do
     # Run the generator again with the --webrat flag if you want to use webrat matchers
     assert_select "form", :action => locations_path(@location), :method => "post" do
       assert_select "input#location_name", :name => "location[name]"
-      assert_select "input#location_state", :name => "location[state]"
+      assert_select "input#location_country", :name => "location[country]"
       assert_select "input#location_latitude", :name => "location[latitude]"
       assert_select "input#location_longitude", :name => "location[longitude]"
       assert_select "input#location_gmaps", :name => "location[gmaps]"

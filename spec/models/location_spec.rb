@@ -4,7 +4,7 @@
 #
 #  id         :integer          not null, primary key
 #  name       :string(255)
-#  state      :string(255)
+#  country    :string(255)
 #  latitude   :float
 #  longitude  :float
 #  gmaps      :boolean

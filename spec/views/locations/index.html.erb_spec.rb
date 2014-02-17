@@ -5,14 +5,14 @@ describe "locations/index" do
     assign(:locations, [
       stub_model(Location,
         :name => "Name",
-        :state => "State",
+        :country => "Country",
         :latitude => 1.5,
         :longitude => 1.5,
         :gmaps => false
       ),
       stub_model(Location,
         :name => "Name",
-        :state => "State",
+        :country => "Country",
         :latitude => 1.5,
         :longitude => 1.5,
         :gmaps => false
@@ -24,7 +24,7 @@ describe "locations/index" do
     render
     # Run the generator again with the --webrat flag if you want to use webrat matchers
     assert_select "tr>td", :text => "Name".to_s, :count => 2
-    assert_select "tr>td", :text => "State".to_s, :count => 2
+    assert_select "tr>td", :text => "Country".to_s, :count => 2
     assert_select "tr>td", :text => 1.5.to_s, :count => 2
     assert_select "tr>td", :text => 1.5.to_s, :count => 2
     assert_select "tr>td", :text => false.to_s, :count => 2
