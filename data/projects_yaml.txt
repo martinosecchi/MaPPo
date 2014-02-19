@@ -1,17 +1,15 @@
 ---
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 2
+    !binary "aWQ=": 1
     !binary "cHJvamVjdF9pZA==": 5088
     !binary "dGl0bGU=": Development of Integrated Dairy Schemes
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": Development of Integrated Dairy Schemes
     !binary "c3VtbWFyeQ==": ! "The project provides an integrated intervention to
       enhance the production of milk and its dairy products and to support of the
       development of animal husbandry.\r\n"
     !binary "Y2hhbm5lbA==": ! 'MULTILATERAL '
     !binary "YW1vdW50": ''
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": Food and Agriculture Organization of the United Nations
       (FAO)
     !binary "Y2x1c3Rlcg==": AGRICULTURE & RURAL DEVELOPMENT
@@ -29,14 +27,16 @@
       and animal feed products improved. 3) Sustainable  structure for the management
       created. Activities: 1) Milk collection and dairy production; 2) Animal feed
       production; 3) Capacity building of the Herat Livestock Development Union \r\n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.037160000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-16 09:10:22.555341000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.214026000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.879803000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 3
+    !binary "aWQ=": 2
     !binary "cHJvamVjdF9pZA==": 6814
     !binary "dGl0bGU=": ! "TBC control in Afghanistan \n"
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Controllo della TBC nelle Regioni sicure dell'Afghanistan
       \ \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -46,7 +46,6 @@
     !binary "YW1vdW50": ! '958.230,69
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'World Health Organization (WHO)
 
 '
@@ -70,17 +69,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.047952000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.260540000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.229701000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.917725000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 4
+    !binary "aWQ=": 3
     !binary "cHJvamVjdF9pZA==": 7436
     !binary "dGl0bGU=": ! 'Rehabilitation and support to the judiciary and penitentiary
       Afghan system- Expert fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Riabilitazione e sostegno al sistema giudiziario
       e penitenziario afghano - fondo esperti \n"
     !binary "c3VtbWFyeQ==": ! 'Support and rehabilitation of the judicial institutions
@@ -99,7 +100,6 @@
     !binary "YW1vdW50": ! '6.335.309,12
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -134,17 +134,19 @@
       in Kabul and Herat guaranteed.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.053082000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.264970000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.234223000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.933981000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 5
+    !binary "aWQ=": 4
     !binary "cHJvamVjdF9pZA==": 7436
     !binary "dGl0bGU=": ! 'Rehabilitation and support to the judiciary and penitentiary
       Afghan system - Local fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Riabilitazione e sostegno al sistema giudiziario
       e penitenziario afghano - fondo in loco
 
@@ -165,7 +167,6 @@
     !binary "YW1vdW50": ! '4.843.890,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -200,16 +201,18 @@
       in Kabul and Herat guaranteed.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.100199000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.269058000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.283605000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.939905000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 6
+    !binary "aWQ=": 5
     !binary "cHJvamVjdF9pZA==": 7803
     !binary "dGl0bGU=": ! 'Kabul-Bamyan road rehabilitation - Expert fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Riabilitazione della strada Kabul-Bamyan -
       fondo esperti \n"
     !binary "c3VtbWFyeQ==": ! "The East-West Corridor. The Corridor connection is
@@ -226,7 +229,6 @@
     !binary "YW1vdW50": ! '1.091.160,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -250,16 +252,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.170364000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.298103000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.361471000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.943859000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 7
+    !binary "aWQ=": 6
     !binary "cHJvamVjdF9pZA==": 7803
     !binary "dGl0bGU=": ! 'Kabul-Bamyan road rehabilitation - art.15
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Riabilitazione della strada Kabul-Bamyan -
       art. 15
 
@@ -278,7 +282,6 @@
     !binary "YW1vdW50": ! '36.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Public Works (Ministry of Public Works
       (MoPW)
 
@@ -303,16 +306,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.215151000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.302219000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.433190000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.948041000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 8
+    !binary "aWQ=": 7
     !binary "cHJvamVjdF9pZA==": 7803
     !binary "dGl0bGU=": ! 'Kabul-Bamyan road rehabilitation - UNDP contribution
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Riabilitazione della strada Kabul-Bamyan -
       contributo UNDP
 
@@ -331,7 +336,6 @@
     !binary "YW1vdW50": ! '1.996.362,39
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Office for Project Service (UNOPS)
 
 '
@@ -355,16 +359,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.220667000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.306136000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.438405000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.967180000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 9
+    !binary "aWQ=": 8
     !binary "cHJvamVjdF9pZA==": 7803
     !binary "dGl0bGU=": ! 'Kabul-Bamyan road rehabilitation - Local fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Riabilitazione della strada Kabul-Bamyan -
       fondo in loco
 
@@ -383,7 +389,6 @@
     !binary "YW1vdW50": ! '446.967,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -407,16 +412,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.225330000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.310689000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.443466000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.980320000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 10
+    !binary "aWQ=": 9
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant to the Afghan Recostruction Trust Fund (ARTF)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario - Banca Mondiale - Afghan
       Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donor
@@ -427,7 +434,6 @@
     !binary "YW1vdW50": ! '13.076.923,08
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -449,16 +455,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.229405000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.314412000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.448245000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.984572000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 11
+    !binary "aWQ=": 10
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant to the Afghan Recostruction Trust Fund (ARTF)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario - Banca Mondiale - Afghan
       Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
@@ -469,7 +477,6 @@
     !binary "YW1vdW50": ! '5.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -491,16 +498,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.233783000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.318089000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.453266000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.988850000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 12
+    !binary "aWQ=": 11
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant 2006 to the Afghan Recostruction Trust Fund (ARTF)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario 2006 - Banca Mondiale
       - Afghan Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
@@ -511,7 +520,6 @@
     !binary "YW1vdW50": ! '7.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -533,16 +541,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.238174000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.322366000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.458468000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.993449000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 13
+    !binary "aWQ=": 12
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant 2007 to the Afghan Recostruction Trust Fund (ARTF)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario 2007 - Banca Mondiale
       - Afghan Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
@@ -553,7 +563,6 @@
     !binary "YW1vdW50": ! '6.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -575,64 +584,55 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.242752000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.325954000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.463467000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:18.998173000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
+- !ruby/object:Project
+  attributes:
+    !binary "aWQ=": 13
+    !binary "cHJvamVjdF9pZA==": 8050
+    !binary "dGl0bGU=": Grant 2008 to the Afghan Recostruction Trust Fund (ARTF) for
+      the national justice programme
+    !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo volontario Afghan Recostruction
+      Trust Fund per il programma nazionale giustizia 2008 '
+    !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
+      trust fund mechanisms financing current costs and development expenditures of
+      the Afghan Government. The Italian contribution is earmarked  for EQUIP, NSP,
+      JSDP, NERAP and CBR programmes.  \r\n"
+    !binary "Y2hhbm5lbA==": ! 'MULTILATERAL '
+    !binary "YW1vdW50": ''
+    !binary "aW1wbGVtZW50ZXI=": ! 'The World Bank (IBRD) '
+    !binary "Y2x1c3Rlcg==": JUSTICE
+    !binary "bnBw": NPP 5 Law and Justice for all
+    !binary "c3RhdHVz": ACTIVE
+    !binary "cHJvdmluY2Vz": ! 'Badakhshan, Bamiyan, Baghlan, Balkh, Farah, Faryab,
+      Ghazni, Herat, Jawzjan, Kabul, Kandahar, Kapisa, Kunduz, Nangarhar, Paktia,
+      Parwan,  Takhar  '
+    !binary "c3RhcnRfZGF0ZQ==": 2012-06-01
+    !binary "ZW5kX2RhdGU=": 2013-01-05
+    !binary "b2JqZWN0aXZl": ! "The Development Objective is to increase the access
+      to and use of legal services. The project seeks to: to implement the Government’s
+      National Priority Program, mitigate the impact of the Transition; put the system
+      on a sustainable path for long term results; and improve service delivery\r\n"
+    !binary "cmVzdWx0cw==": ! "The results of the project are: (a) scope and quality
+      of legal services increased; (b) productivity of legal service providers improved;
+      and (c) accountability of legal service providers enhanced.\r\n"
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.482308000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.001367000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Badakhshan, Bamiyan, Baghlan, Balkh, Farah,
+      Faryab, Ghazni, Herat, Jowzian, Kabul, Kandahar, Kapisa, Kunduz, Nangarhar,
+      Paktia, Parwan, Takhar
+
+'
 - !ruby/object:Project
   attributes:
     !binary "aWQ=": 14
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant 2008 to the Afghan Recostruction Trust Fund (ARTF)
-      for the national justice programme
 
 '
-    !binary "c3RyaW5n": 
-    !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario Afghan Recostruction
-      Trust Fund per il programma nazionale giustizia 2008 \n"
-    !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
-      trust fund mechanisms financing current costs and development expenditures of
-      the Afghan Government. The Italian contribution is earmarked  for EQUIP, NSP,
-      JSDP, NERAP and CBR programmes.  \n"
-    !binary "Y2hhbm5lbA==": ! "MULTILATERAL \n"
-    !binary "YW1vdW50": ! '10.000.000,00
-
-'
-    !binary "aW50ZWdlcg==": 
-    !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
-    !binary "Y2x1c3Rlcg==": ! 'JUSTICE
-
-'
-    !binary "bnBw": ! 'NPP 5 Law and Justice for all
-
-'
-    !binary "c3RhdHVz": ! 'ACTIVE
-
-'
-    !binary "cHJvdmluY2Vz": ! "Badakhshan, Bamiyan Baghlan, Balkh, Farah, Faryab,
-      Ghazni, Herat, Jawzjan, Kabul, Kandahar, Kapisa, Kunduz, Nangarhar, Paktia,
-      Parwan,  Takhar  \n"
-    !binary "c3RhcnRfZGF0ZQ==": 2012-06-01
-    !binary "ZW5kX2RhdGU=": 2013-01-05
-    !binary "b2JqZWN0aXZl": ! 'The Development Objective is to increase the access
-      to and use of legal services. The project seeks to: to implement the Government’s
-      National Priority Program, mitigate the impact of the Transition; put the system
-      on a sustainable path for long term results; and improve service delivery
-
-'
-    !binary "cmVzdWx0cw==": ! 'The results of the project are: (a) scope and quality
-      of legal services increased; (b) productivity of legal service providers improved;
-      and (c) accountability of legal service providers enhanced.
-
-'
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.246993000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.329711000 Z
-- !ruby/object:Project
-  attributes:
-    !binary "aWQ=": 15
-    !binary "cHJvamVjdF9pZA==": 8050
-    !binary "dGl0bGU=": ! 'Grant 2008 to the Afghan Recostruction Trust Fund (ARTF)
-
-'
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario 2008 - Banca Mondiale
       - Afghan Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
@@ -643,7 +643,6 @@
     !binary "YW1vdW50": ! '15.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -665,16 +664,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.258111000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.358169000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.487394000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.005106000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 16
+    !binary "aWQ=": 15
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant 2010 to the Afghan Recostruction Trust Fund (ARTF)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario 2009 - Banca Mondiale
       - Afghan Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
@@ -685,7 +686,6 @@
     !binary "YW1vdW50": ! '4.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'AGRICULTURE & RURAL DEVELOPMENT
 
@@ -716,16 +716,18 @@
       Project Management, Monitoring and Evaluation.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.262640000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.362143000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.492411000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.008345000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'country-wide
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 17
+    !binary "aWQ=": 16
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant 2009 to the Afghan Recostruction Trust Fund (ARTF)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario 2011 - Banca Mondiale
       - Afghan Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
@@ -736,7 +738,6 @@
     !binary "YW1vdW50": ! '4.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -758,16 +759,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.266964000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.366813000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.497387000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.021790000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 18
+    !binary "aWQ=": 17
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant 2011 to the Afghan Recostruction Trust Fund (ARTF)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario - Banca Mondiale - Afghan
       Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
@@ -778,7 +781,6 @@
     !binary "YW1vdW50": ! '6.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -808,16 +810,18 @@
       Project Management, Monitoring and Evaluation.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.270925000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.370444000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.502216000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.026741000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'country-wide
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 19
+    !binary "aWQ=": 18
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant to the Afghan Recostruction Trust Fund (ARTF)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario 2010 - Banca Mondiale
       - Afghan Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
@@ -828,7 +832,6 @@
     !binary "YW1vdW50": ! '3.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -858,16 +861,18 @@
       Project Management, Monitoring and Evaluation.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.275584000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.375323000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.507450000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.031072000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'country-wide
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 20
+    !binary "aWQ=": 19
     !binary "cHJvamVjdF9pZA==": 8050
     !binary "dGl0bGU=": ! 'Grant 2012 to the Afghan Recostruction Trust Fund (ARTF)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario 2012 - Banca Mondiale
       - Afghan Recostruction Trust Fund (ARTF) \n"
     !binary "c3VtbWFyeQ==": ! " The Afghanistan Reconstruction Trust Fund is a donr
@@ -878,7 +883,6 @@
     !binary "YW1vdW50": ! '2.850.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "The World Bank (IBRD) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -908,15 +912,17 @@
       Project Management, Monitoring and Evaluation.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.280004000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.379305000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.513059000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.034827000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'country-wide
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 21
+    !binary "aWQ=": 20
     !binary "cHJvamVjdF9pZA==": 8056
     !binary "dGl0bGU=": ! "Regional Programme for promoting Counter Narcotics Efforts
       in Afghanistan and neighbouring Countries 2011-2014 \n"
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Regional Programme for promoting Counter Narcotics
       Efforts in Afghanistan and neighbouring Countries 2011-2014 \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -926,7 +932,6 @@
     !binary "YW1vdW50": ! '389.959,40
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Office on Drugs and Crime (UNODC)
 
 '
@@ -950,16 +955,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.284322000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.382925000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.530634000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.038428000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'country-wide
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 22
+    !binary "aWQ=": 21
     !binary "cHJvamVjdF9pZA==": 8189
     !binary "dGl0bGU=": ! 'Office expenditure
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Utl Kabul - spese funzionamento \n"
     !binary "c3VtbWFyeQ==": ! '
 
@@ -968,7 +975,6 @@
     !binary "YW1vdW50": ! '1.254.002,37
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -992,16 +998,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.289466000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.386334000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.534878000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.041734000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 23
+    !binary "aWQ=": 22
     !binary "cHJvamVjdF9pZA==": 8189
     !binary "dGl0bGU=": ! 'Office expenditure (experts)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Utl Kabul - spese funzionamento (emolumenti
       esperti)
 
@@ -1013,7 +1021,6 @@
     !binary "YW1vdW50": ! '1.362.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -1037,16 +1044,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.297215000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.389539000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.539211000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.045229000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 24
+    !binary "aWQ=": 23
     !binary "cHJvamVjdF9pZA==": 8315
     !binary "dGl0bGU=": ! 'Grant to UNFPA promoting women reproductive health in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Promozione della salute riproduttiva e dei
       diritti delle donne in Afghanistan-contributo UNFPA \n"
     !binary "c3VtbWFyeQ==": ! 'The project establishes 9 Family Health Houses (FHH)
@@ -1059,7 +1068,6 @@
     !binary "YW1vdW50": ! '500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Population Fund (UNFPA)
 
 '
@@ -1083,16 +1091,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.301828000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.393332000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.543489000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.048820000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 25
+    !binary "aWQ=": 24
     !binary "cHJvamVjdF9pZA==": 8315
     !binary "dGl0bGU=": ! 'Grant to UNFPA promoting women reproductive health in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Promozione della salute riproduttiva e dei
       diritti delle donne in Afghanistan-contributo UNFPA \n"
     !binary "c3VtbWFyeQ==": ! 'The project aims at improving the women access to maternal
@@ -1104,7 +1114,6 @@
     !binary "YW1vdW50": ! '1.017.295,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Population Fund (UNFPA)
 
 '
@@ -1136,16 +1145,18 @@
       created and strengthened at the FHH locations and more adjacent villages. \L-
       Health seeking behaviour improved by the promotion of household actions by 9
       male and 9 female CHW and 18 Family Health Action Group'.\n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.305955000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.436514000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.548249000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.052016000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 26
+    !binary "aWQ=": 25
     !binary "cHJvamVjdF9pZA==": 8355
     !binary "dGl0bGU=": ! 'Working for gender equality and women''s empowerment
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Progetto di cooperazione decentrata per il
       miglioramento delle condizioni di vita delle donne e dei bambini dell'Afghanistan
       \n"
@@ -1161,7 +1172,6 @@
     !binary "YW1vdW50": ! '626.075,38
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Programme (UNDP)
 
 '
@@ -1188,154 +1198,96 @@
       by line ministries\L-  Institutionalize the functioning of the Gender Responsive
       Budgeting cell in the budget directorate, Ministry of Finance (MoF) and mainstream
       GRB in the pilot ministries and at the sub-national level.\n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.311616000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.444874000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.553625000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.064621000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul
+
+'
+- !ruby/object:Project
+  attributes:
+    !binary "aWQ=": 26
+    !binary "cHJvamVjdF9pZA==": 8377
+    !binary "dGl0bGU=": Grant to UNIFEM- project for the professional training and
+      female entrepreneurship in the provinces of Kabul and Baghlan
+    !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo UNIFEM-progetto di formazione professionale
+      e imprenditoria femminile nelle province di Kabul e Baghlan '
+    !binary "c3VtbWFyeQ==": ! "Support to MOWA, vocational trainings and income generation
+      activities.\r\n"
+    !binary "Y2hhbm5lbA==": ! 'BILATERAL '
+    !binary "YW1vdW50": ''
+    !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Fund for Women (UNIFEM) '
+    !binary "Y2x1c3Rlcg==": GENDER
+    !binary "bnBw": NPP 4 Capacity Development to Accelerate NAPWA Implementation
+    !binary "c3RhdHVz": ACTIVITIES ENDED
+    !binary "cHJvdmluY2Vz": Kabul, Herat, Baghlan
+    !binary "c3RhcnRfZGF0ZQ==": 2014-01-27
+    !binary "ZW5kX2RhdGU=": 2014-01-27
+    !binary "b2JqZWN0aXZl": ! "\r\n"
+    !binary "cmVzdWx0cw==": ! "\r\n"
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.558671000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.068216000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Herat, Baglan
+
+'
 - !ruby/object:Project
   attributes:
     !binary "aWQ=": 27
     !binary "cHJvamVjdF9pZA==": 8377
-    !binary "dGl0bGU=": ! 'Grant to UNIFEM- project for the professional training
-      and female entrepreneurship in the provinces of Kabul and Baghlan
+    !binary "dGl0bGU=": Project for the professional training and female entrepreneurship
+      in the provinces of Kabul and Baghlan - Local Fund
+    !binary "dGl0bGVfb3JpZ19sYW5n": Progetto di formazione professionale e imprenditoria
+      femminile nelle province di Kabul e Baghlan - Fondo in loco
+    !binary "c3VtbWFyeQ==": ! "Support to MOWA, vocational trainings and income generation
+      activities.\r\n"
+    !binary "Y2hhbm5lbA==": ! 'BILATERAL '
+    !binary "YW1vdW50": ''
+    !binary "aW1wbGVtZW50ZXI=": Embassy of Italy in Kabul
+    !binary "Y2x1c3Rlcg==": GENDER
+    !binary "bnBw": NPP 4 Capacity Development to Accelerate NAPWA Implementation
+    !binary "c3RhdHVz": ACTIVITIES ENDED
+    !binary "cHJvdmluY2Vz": Kabul, Herat, Baghlan
+    !binary "c3RhcnRfZGF0ZQ==": 2014-01-27
+    !binary "ZW5kX2RhdGU=": 2014-01-27
+    !binary "b2JqZWN0aXZl": ! "\r\n"
+    !binary "cmVzdWx0cw==": ! "\r\n"
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.563478000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.077676000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Herat, Baglan
 
 '
-    !binary "c3RyaW5n": 
-    !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo UNIFEM-progetto di formazione professionale
-      e imprenditoria femminile nelle province di Kabul e Baghlan \n"
-    !binary "c3VtbWFyeQ==": ! 'Support to MOWA, vocational trainings and income generation
-      activities.
-
-'
-    !binary "Y2hhbm5lbA==": ! "BILATERAL \n"
-    !binary "YW1vdW50": ! '70.000,00
-
-'
-    !binary "aW50ZWdlcg==": 
-    !binary "aW1wbGVtZW50ZXI=": ! "United Nations Development Fund for Women (UNIFEM)
-      \n"
-    !binary "Y2x1c3Rlcg==": ! 'GENDER
-
-'
-    !binary "bnBw": ! 'NPP 4 Capacity Development to Accelerate NAPWA Implementation
-
-'
-    !binary "c3RhdHVz": ! 'ACTIVITIES ENDED
-
-'
-    !binary "cHJvdmluY2Vz": ! 'Kabul, Herat, Baglan.
-
-'
-    !binary "c3RhcnRfZGF0ZQ==": 
-    !binary "ZW5kX2RhdGU=": 
-    !binary "b2JqZWN0aXZl": ! '
-
-'
-    !binary "cmVzdWx0cw==": ! '
-
-'
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.316517000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.449821000 Z
 - !ruby/object:Project
-  attributes: &2170627100
+  attributes:
     !binary "aWQ=": 28
     !binary "cHJvamVjdF9pZA==": 8377
-    !binary "dGl0bGU=": ! 'Project for the professional training and female entrepreneurship
-      in the provinces of Kabul and Baghlan - Local Fund
+    !binary "dGl0bGU=": Project for the professional training and female entrepreneurship
+      in the provinces of Kabul and Baghlan - Expert Fund
+    !binary "dGl0bGVfb3JpZ19sYW5n": Progetto di formazione professionale e imprenditoria
+      femminile nelle province di Kabul e Baghlan - Fondo esperti
+    !binary "c3VtbWFyeQ==": ! "Support to MOWA, vocational trainings and income generation
+      activities.\r\n"
+    !binary "Y2hhbm5lbA==": ! 'BILATERAL '
+    !binary "YW1vdW50": ''
+    !binary "aW1wbGVtZW50ZXI=": Direzione Generale Cooperazione allo Sviluppo (DGCS)
+    !binary "Y2x1c3Rlcg==": GENDER
+    !binary "bnBw": NPP 4 Capacity Development to Accelerate NAPWA Implementation
+    !binary "c3RhdHVz": ACTIVITIES ENDED
+    !binary "cHJvdmluY2Vz": Kabul, Herat, Baghlan
+    !binary "c3RhcnRfZGF0ZQ==": 2014-01-27
+    !binary "ZW5kX2RhdGU=": 2014-01-27
+    !binary "b2JqZWN0aXZl": ! "\r\n"
+    !binary "cmVzdWx0cw==": ! "\r\n"
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.572210000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.081114000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Herat, Baglan
 
 '
-    !binary "c3RyaW5n": 
-    !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Progetto di formazione professionale e imprenditoria
-      femminile nelle province di Kabul e Baghlan - Fondo in loco
-
-'
-    !binary "c3VtbWFyeQ==": ! 'Support to MOWA, vocational trainings and income generation
-      activities.
-
-'
-    !binary "Y2hhbm5lbA==": ! "BILATERAL \n"
-    !binary "YW1vdW50": ! '2.655.460,00
-
-'
-    !binary "aW50ZWdlcg==": 
-    !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
-
-'
-    !binary "Y2x1c3Rlcg==": ! 'GENDER
-
-'
-    !binary "bnBw": ! 'NPP 4 Capacity Development to Accelerate NAPWA Implementation
-
-'
-    !binary "c3RhdHVz": ! 'ACTIVITIES ENDED
-
-'
-    !binary "cHJvdmluY2Vz": ! 'Kabul, Herat, Baglan.
-
-'
-    !binary "c3RhcnRfZGF0ZQ==": 
-    !binary "ZW5kX2RhdGU=": 
-    !binary "b2JqZWN0aXZl": ! '
-
-'
-    !binary "cmVzdWx0cw==": ! '
-
-'
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.320570000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.454485000 Z
 - !ruby/object:Project
   attributes:
     !binary "aWQ=": 29
-    !binary "cHJvamVjdF9pZA==": 8377
-    !binary "dGl0bGU=": ! 'Project for the professional training and female entrepreneurship
-      in the provinces of Kabul and Baghlan - Expert Fund
-
-'
-    !binary "c3RyaW5n": 
-    !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Progetto di formazione professionale e imprenditoria
-      femminile nelle province di Kabul e Baghlan - Fondo esperti
-
-'
-    !binary "c3VtbWFyeQ==": ! 'Support to MOWA, vocational trainings and income generation
-      activities.
-
-'
-    !binary "Y2hhbm5lbA==": ! "BILATERAL \n"
-    !binary "YW1vdW50": ! '784.500,00
-
-'
-    !binary "aW50ZWdlcg==": 
-    !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
-
-'
-    !binary "Y2x1c3Rlcg==": ! 'GENDER
-
-'
-    !binary "bnBw": ! 'NPP 4 Capacity Development to Accelerate NAPWA Implementation
-
-'
-    !binary "c3RhdHVz": ! 'ACTIVITIES ENDED
-
-'
-    !binary "cHJvdmluY2Vz": ! 'Kabul, Herat, Baglan.
-
-'
-    !binary "c3RhcnRfZGF0ZQ==": 
-    !binary "ZW5kX2RhdGU=": 
-    !binary "b2JqZWN0aXZl": ! '
-
-'
-    !binary "cmVzdWx0cw==": ! '
-
-'
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.324474000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.459536000 Z
-- !ruby/object:Project
-  attributes:
-    !binary "aWQ=": 30
     !binary "cHJvamVjdF9pZA==": 8382
     !binary "dGl0bGU=": ! 'Working for gender equality and women''s empowerment
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Progetto di cooperazione decentrata per il
       miglioramento delle condizioni di vita delle donne e dei bambini dell'Afghanistan
       \n"
@@ -1346,7 +1298,6 @@
     !binary "YW1vdW50": ! '700.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'ICS- Hawca
 
 '
@@ -1370,17 +1321,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.328606000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.482869000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.576420000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.086344000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 31
+    !binary "aWQ=": 30
     !binary "cHJvamVjdF9pZA==": 8382
     !binary "dGl0bGU=": ! 'Working for gender equality and women''s empowerment -
       second phase
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Progetto di cooperazione decentrata per il
       miglioramento delle condizioni di vita delle donne e dei bambini dell''Afghanistan
       - seconda fase
@@ -1393,7 +1346,6 @@
     !binary "YW1vdW50": ! '700.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'ICS- Hawca
 
 '
@@ -1417,16 +1369,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.339719000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.487087000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.580566000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.091675000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 32
+    !binary "aWQ=": 31
     !binary "cHJvamVjdF9pZA==": 8485
     !binary "dGl0bGU=": ! 'Happy childhood
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Un''infanzia piu'' felice: lotta al traffico
       dei minori in Afghanistan - contributo IOM
 
@@ -1440,7 +1394,6 @@
     !binary "YW1vdW50": ! '972.812,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'International Organization for Migration (IOM)
 
 '
@@ -1472,15 +1425,17 @@
       and reintegration packages, family tracing as well as reintegration assistance.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.344080000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.491027000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.585212000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.095743000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul, Jalalabad, Kunduz
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 33
+    !binary "aWQ=": 32
     !binary "cHJvamVjdF9pZA==": 8489
     !binary "dGl0bGU=": ! "Voluntary contribution to UNDP for the counter narcotics
       trust fund \n"
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Supporto al counter narcotics trust fund UNDP
       - contributo volontario \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -1490,7 +1445,6 @@
     !binary "YW1vdW50": ! '1.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "United Nations Development Programme (UNDP) \n"
     !binary "Y2x1c3Rlcg==": ! 'SECURITY
 
@@ -1512,16 +1466,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.348929000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.494993000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.590333000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.101258000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 34
+    !binary "aWQ=": 33
     !binary "cHJvamVjdF9pZA==": 8636
     !binary "dGl0bGU=": ! 'Trust fund for temporary contracts and consulting
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Fondo per affidamento di incarichi temporanei
       nonche' contratti di collaborazione coordinata e continuativa \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -1531,7 +1487,6 @@
     !binary "YW1vdW50": ! '455.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -1555,17 +1510,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.353180000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.498752000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.594419000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.104791000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 35
+    !binary "aWQ=": 34
     !binary "cHJvamVjdF9pZA==": 8890
     !binary "dGl0bGU=": ! 'Local funds for monitoring and coordination of Italian
       multilateral initiatives
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Fondi di gestione in loco - monitoraggio e
       coordinamento delle iniziative italiane multilaterali \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -1575,7 +1532,6 @@
     !binary "YW1vdW50": ! '491.493,37
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -1599,17 +1555,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.357617000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.503332000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.598258000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.108196000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 36
+    !binary "aWQ=": 35
     !binary "cHJvamVjdF9pZA==": 8890
     !binary "dGl0bGU=": ! 'Expert funds for monitoring and coordination of Italian
       multilateral initiatives
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Fondi esperti - monitoraggio e coordinamento
       delle iniziative italiane multilaterali \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -1619,7 +1577,6 @@
     !binary "YW1vdW50": ! '1.132.800,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -1643,18 +1600,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.361384000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.507332000 Z
-- !ruby/object:Project
-  attributes:
-    !binary "aWQ=": 37
-    !binary "cHJvamVjdF9pZA==": 8914
-    !binary "dGl0bGU=": ! 'Kabul-Bamyan road rehabilitation- phase two
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.606348000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.111595000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
 
 '
-    !binary "c3RyaW5n": 
-    !binary "dGl0bGVfb3JpZ19sYW5n": ! "Riabilitazione strada Kabul-Bamyan. Art. 15
-      -seconda fase (REMABAR 2) \n"
+- !ruby/object:Project
+  attributes:
+    !binary "aWQ=": 36
+    !binary "cHJvamVjdF9pZA==": 8914
+    !binary "dGl0bGU=": Kabul-Bamyan road rehabilitation- phase two
+    !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Riabilitazione strada Kabul-Bamyan. Art. 15
+      -seconda fase (REMABAR 2) '
     !binary "c3VtbWFyeQ==": ! "The East-West Corridor. The Corridor connection is
       about 700 Km long and it spans from Herat to Maidan Shar –touching Herat, Ghor,
       Bamyan and Wardak Provinces- and then to Kabul through the ring road. \LThe
@@ -1664,51 +1621,38 @@
       form the back-bone of the transport road grid. \L• Halving the distance between
       Herat and Kabul and thus cutting transport costs and time.\L• Opening up to
       prospection areas of great importance for their mining resources.\L- Second
-      Lot, from ONAY PASS to BAMYAN -\n"
-    !binary "Y2hhbm5lbA==": ! "BILATERAL \n"
-    !binary "YW1vdW50": ! '63.400.000,00
-
-'
-    !binary "aW50ZWdlcg==": 
-    !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Public Works (MoPW)
-
-'
-    !binary "Y2x1c3Rlcg==": ! 'INFRASTRUCTURES
-
-'
-    !binary "bnBw": ! 'NPP 1 National Regional Resource Corridor Initiative
-
-'
-    !binary "c3RhdHVz": ! 'ACTIVE
-
-'
-    !binary "cHJvdmluY2Vz": ! 'Kabul, Bamyan
-
-'
+      Lot, from ONAY PASS to BAMYAN -\r\n"
+    !binary "Y2hhbm5lbA==": ! 'BILATERAL '
+    !binary "YW1vdW50": ''
+    !binary "aW1wbGVtZW50ZXI=": Ministry of Public Works (MoPW)
+    !binary "Y2x1c3Rlcg==": INFRASTRUCTURES
+    !binary "bnBw": NPP 1 National Regional Resource Corridor Initiative
+    !binary "c3RhdHVz": ACTIVE
+    !binary "cHJvdmluY2Vz": Kabul, Bamyan
     !binary "c3RhcnRfZGF0ZQ==": 2008-04-24
     !binary "ZW5kX2RhdGU=": 2015-08-31
     !binary "b2JqZWN0aXZl": ! "Improve the road connection among Kabul and Bamyan
       in terms of travel time, transport safety and accessibility in any weather conditions.
-      \n"
-    !binary "cmVzdWx0cw==": ! '1- Second section of the road Maidan Shahr - Bamyan
+      \r\n"
+    !binary "cmVzdWx0cw==": ! "1- Second section of the road Maidan Shahr - Bamyan
       (82,3 Km from Onay Pass to Bamyan) completed in compliance with international
       standard. 2- Ministry of Public Works (MoPW) capability to manage national and
       international contracts improved. 3- Road traffic and commercial transactions
       increased; as a consequence job movements and services utilization improved;
       4- Ministry of Public Works (MoPW) operational skills improved thanks to monitoring
-      activities as well as technical assistance implemented by the Italian cooperation.
+      activities as well as technical assistance implemented by the Italian cooperation.\r\n"
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.610445000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.132277000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Bamyan
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.365514000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.511506000 Z
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 38
+    !binary "aWQ=": 37
     !binary "cHJvamVjdF9pZA==": 9051
     !binary "dGl0bGU=": ! 'Elect-contribution to UNDP
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario UNDP - programma di registrazione
       del corpo elettorale 2008 \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -1718,7 +1662,6 @@
     !binary "YW1vdW50": ! '5.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "United Nations Development Programme (UNDP) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -1740,17 +1683,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.369545000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.516560000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.614520000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.135830000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 39
+    !binary "aWQ=": 38
     !binary "cHJvamVjdF9pZA==": 9051
     !binary "dGl0bGU=": ! 'Voluntary contribution to UNDP-voter registration program
       2008
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario UNDP - programma di registrazione
       del corpo elettorale 2008 \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -1760,7 +1705,6 @@
     !binary "YW1vdW50": ! '5.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "United Nations Development Programme (UNDP) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -1782,16 +1726,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.380766000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.540207000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.619081000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.138752000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 40
+    !binary "aWQ=": 39
     !binary "cHJvamVjdF9pZA==": 9051
     !binary "dGl0bGU=": ! 'Elect-contribution to UNDP
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario UNDP - programma di registrazione
       del corpo elettorale 2008 \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -1801,7 +1747,6 @@
     !binary "YW1vdW50": ! '1.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "United Nations Development Programme (UNDP) \n"
     !binary "Y2x1c3Rlcg==": ! 'GOVERNANCE
 
@@ -1823,16 +1768,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.384687000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.544644000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.623789000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.141785000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 41
+    !binary "aWQ=": 40
     !binary "cHJvamVjdF9pZA==": 9051
     !binary "dGl0bGU=": ! 'Justice and Human Rights in Afghanistan (JHRA) phase II
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Justice and Human Rights in Afghanistan (JHRA)
       phase II
 
@@ -1843,7 +1790,6 @@
     !binary "YW1vdW50": ! '2.007.692,31
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Programme (UNDP)
 
 '
@@ -1881,17 +1827,19 @@
       3:  Public participation processes and knowledge base for improving access to
       justice and human rights compliance established.\LOutput 4:Project Support Unit:
       Internal oversight, monitoring and evaluation capacity in place.\L\n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.388720000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.548645000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.628502000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.145613000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 42
+    !binary "aWQ=": 41
     !binary "cHJvamVjdF9pZA==": 9051
     !binary "dGl0bGU=": ! 'Voluntary contribution to UNDP-voter registration program
       2008
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario UNDP - programma di registrazione
       del corpo elettorale 2008 \n"
     !binary "c3VtbWFyeQ==": ! 'Improving access to justice for women and increased
@@ -1902,7 +1850,6 @@
     !binary "YW1vdW50": ! '769.230,77
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Programme (UNDP)
 
 '
@@ -1929,17 +1876,19 @@
       resulution mechanism; media regulatory mechanism.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.393459000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.553445000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.633157000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.149489000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 43
+    !binary "aWQ=": 42
     !binary "cHJvamVjdF9pZA==": 9116
     !binary "dGl0bGU=": ! 'Voluntary contribution to UNDP-counter narcotics trust
       fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo volontario-counter narcotics trust
       fund - CNTF
 
@@ -1951,7 +1900,6 @@
     !binary "YW1vdW50": ! '500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "United Nations Development Programme (UNDP) \n"
     !binary "Y2x1c3Rlcg==": ! 'SECURITY
 
@@ -1973,16 +1921,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.397957000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.557644000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.672904000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.156576000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 44
+    !binary "aWQ=": 43
     !binary "cHJvamVjdF9pZA==": 9191
     !binary "dGl0bGU=": ! 'National Solidarity Programme- NSP
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo Italiano programma nazionale sviluppo
       rurale comunitaro-National Solidarity Programme-NSP
 
@@ -1997,7 +1947,6 @@
     !binary "YW1vdW50": ! '20.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Rural Rehabilitation and Development
       (MRRD)
 
@@ -2022,15 +1971,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.402005000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.561276000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.678123000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.164276000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Farah, Wardack, Kabul, Lowgar, Badghis,
+      Bamyan
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 45
+    !binary "aWQ=": 44
     !binary "cHJvamVjdF9pZA==": 9191
     !binary "dGl0bGU=": ! "CONTRIBUTO ITALIANO PROGRAMMA NAZIONALE SVILUPPO RURALE
       COMUNITARO-NATIONAL SOLIDARITY PROGRAMME-FONDO IN LOCO \n"
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'NATIONAL SOLIDARITY PROGRAMME-NSP
 
 '
@@ -2044,7 +1996,6 @@
     !binary "YW1vdW50": ! '291.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -2068,16 +2019,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.406290000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.565565000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.682748000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.167498000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Farah, Wardack, Kabul, Lowgar, Badghis,
+      Bamyan
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 46
+    !binary "aWQ=": 45
     !binary "cHJvamVjdF9pZA==": 9191
     !binary "dGl0bGU=": ! 'National Solidarity Programme- NSP- Expert fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo Italiano programma nazionale sviluppo
       rurale comunitaro-National Solidarity Programme-NSP - Fondo esperti
 
@@ -2092,7 +2046,6 @@
     !binary "YW1vdW50": ! '378.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! '
 
 '
@@ -2116,16 +2069,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.419190000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.569856000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.687211000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.177056000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Farah, Wardack, Kabul, Lowgar, Badghis,
+      Bamyan
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 47
+    !binary "aWQ=": 46
     !binary "cHJvamVjdF9pZA==": 9259
     !binary "dGl0bGU=": ! 'Contribution to the law and order trust fund for Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo volontario all''UNDP per il LOTFA
 
 '
@@ -2139,7 +2095,6 @@
     !binary "YW1vdW50": ! '800.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Programme (UNDP)
 
 '
@@ -2168,16 +2123,18 @@
       martyres and disabled.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.423895000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.573285000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.713660000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.180614000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 48
+    !binary "aWQ=": 47
     !binary "cHJvamVjdF9pZA==": 9259
     !binary "dGl0bGU=": ! 'Contribution 2010 to the law and order trust fund for Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo 2010 volontario all''UNDP per il
       LOTFA
 
@@ -2192,7 +2149,6 @@
     !binary "YW1vdW50": ! '1.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Programme (UNDP)
 
 '
@@ -2221,17 +2177,19 @@
       martyres and disabled.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.428534000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.579384000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.719683000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.187147000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 49
+    !binary "aWQ=": 48
     !binary "cHJvamVjdF9pZA==": 9261
     !binary "dGl0bGU=": ! 'Management, coordination, monitoring and techical assistance
       to Italian intervention in the humanitarian sector
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Iniziativa di emergenza per il coordinamento,
       monitoraggio, assitenza tecnica e amministrativo-contabile attivita' di emergenza
       \n"
@@ -2242,7 +2200,6 @@
     !binary "YW1vdW50": ! '1.214.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -2266,16 +2223,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.433381000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.583293000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.724387000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.192582000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 50
+    !binary "aWQ=": 49
     !binary "cHJvamVjdF9pZA==": 9279
     !binary "dGl0bGU=": ! 'REGIONAL PROGRAM FOR OLIVE OIL
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'REGIONAL PROGRAM FOR OLIVE OIL
 
 '
@@ -2288,7 +2247,6 @@
     !binary "YW1vdW50": ! '973.105,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'ISTITUTO AGRONOMICO D''OLTRE MARE (IAO)
 
 '
@@ -2316,17 +2274,19 @@
       trained. Activities: 1) Training of NVDA personnel on olive oil production and
       citrus; 2) Supply of equipment for olive oil plant; 3) Training and technical
       support on pistachio (under negotiation at Herat). \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.437543000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.587490000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.728511000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.196163000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Nangarhar, Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 51
+    !binary "aWQ=": 50
     !binary "cHJvamVjdF9pZA==": 9305
     !binary "dGl0bGU=": ! 'Action plan for the socio-economic reintegration of returnees,
       IDPS and vulnerable Afghans
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Action plan for the socio-economic reintegration
       of returnees, IDPS and vulnerable Afghans \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -2336,7 +2296,6 @@
     !binary "YW1vdW50": ! '3.100.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'International Organization for Migration (IOM)
 
 '
@@ -2360,17 +2319,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.441699000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.591805000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.745026000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.201543000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 52
+    !binary "aWQ=": 51
     !binary "cHJvamVjdF9pZA==": 9309
     !binary "dGl0bGU=": ! 'Supporting microfinace and small & middle size enterpises
       in the provinces of Herat, Farah and Badghis
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sostegno alla microfinanza e piccola impresa
       afghana nella provincia di Herat, Farah e Badghis \n"
     !binary "c3VtbWFyeQ==": ! 'Contribute to poverty reduction and social inclusion
@@ -2382,7 +2343,6 @@
     !binary "YW1vdW50": ! '6.400.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Finance (MoF)
 
 '
@@ -2411,17 +2371,19 @@
       borrowers, 243 women (27%);\L- Euro 0.7M loans outstanding (Euro 0.5M Italian
       loan),  Euro 700 average loan per borrower;\L- Repayment rate 99% (for Oxus
       Afganistan).\n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.446292000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.595797000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.751709000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.204764000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Farah, Badghis
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 53
+    !binary "aWQ=": 52
     !binary "cHJvamVjdF9pZA==": 9309
     !binary "dGl0bGU=": ! 'Supporting microfinace and small & middle size enterpises
       in the provinces of Herat, Farah and Badghis - Expert fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Sostegno alla microfinanza e piccola impresa
       afghana nella provincia di Herat, Farah e Badghis - Fondo esperti
 
@@ -2435,7 +2397,6 @@
     !binary "YW1vdW50": ! '250.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -2464,19 +2425,67 @@
       borrowers, 243 women (27%);\L- Euro 0.7M loans outstanding (Euro 0.5M Italian
       loan),  Euro 700 average loan per borrower;\L- Repayment rate 99% (for Oxus
       Afganistan).\n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.450727000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.599494000 Z
-- !ruby/object:Project
-  attributes: *2170627100
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.756509000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.208314000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Farah, Badghis
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 55
+    !binary "aWQ=": 53
+    !binary "cHJvamVjdF9pZA==": 8377
+    !binary "dGl0bGU=": ! 'Project for the professional training and female entrepreneurship
+      in the provinces of Kabul and Baghlan - Local Fund
+
+'
+    !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Progetto di formazione professionale e imprenditoria
+      femminile nelle province di Kabul e Baghlan - Fondo in loco
+
+'
+    !binary "c3VtbWFyeQ==": ! 'Support to MOWA, vocational trainings and income generation
+      activities.
+
+'
+    !binary "Y2hhbm5lbA==": ! "BILATERAL \n"
+    !binary "YW1vdW50": ! '2.655.460,00
+
+'
+    !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
+
+'
+    !binary "Y2x1c3Rlcg==": ! 'GENDER
+
+'
+    !binary "bnBw": ! 'NPP 4 Capacity Development to Accelerate NAPWA Implementation
+
+'
+    !binary "c3RhdHVz": ! 'ACTIVITIES ENDED
+
+'
+    !binary "cHJvdmluY2Vz": ! 'Kabul, Herat, Baglan.
+
+'
+    !binary "c3RhcnRfZGF0ZQ==": 
+    !binary "ZW5kX2RhdGU=": 
+    !binary "b2JqZWN0aXZl": ! '
+
+'
+    !binary "cmVzdWx0cw==": ! '
+
+'
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.761160000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.211635000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Farah, Badghis
+
+'
+- !ruby/object:Project
+  attributes:
+    !binary "aWQ=": 54
     !binary "cHJvamVjdF9pZA==": 9312
     !binary "dGl0bGU=": ! 'Support to disaster preparedness and emergency response
       of the Afghan Government
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Rafforzamento della risposta alle calamita'
       ed emergenze naturali \n"
     !binary "c3VtbWFyeQ==": ! 'The prject seeks to improve preparedness for disasters
@@ -2488,7 +2497,6 @@
     !binary "YW1vdW50": ! '1.800.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Office for Project Service (UNOPS)
 
 '
@@ -2512,17 +2520,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.466990000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.607997000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.765305000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.217318000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 56
+    !binary "aWQ=": 55
     !binary "cHJvamVjdF9pZA==": 9335
     !binary "dGl0bGU=": ! 'Resources allocation for potentiate monitoring activity
       and evaluation of cooperation projects in the country
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Allocazione risorse per rafforzamento attivita'
       monitoraggio, valutazione, informazione, valorizzazione progetti di cooperazione
       \n"
@@ -2533,7 +2543,6 @@
     !binary "YW1vdW50": ! '367.400,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -2557,17 +2566,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.472091000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.613158000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.769970000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.220782000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 57
+    !binary "aWQ=": 56
     !binary "cHJvamVjdF9pZA==": 9400
     !binary "dGl0bGU=": ! 'Assistance and training on good governance in the province
       of Herat
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Assistenza e formazione sui temi della governance
       alla provincia di Herat \n"
     !binary "c3VtbWFyeQ==": ! 'Capacity building of tashkil of the Herat Province
@@ -2579,7 +2590,6 @@
     !binary "YW1vdW50": ! '406.200,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "UNIV. STUDI DI GENOVA - DIPTEM \n"
     !binary "Y2x1c3Rlcg==": ! 'EDUCATION & CULTURE
 
@@ -2599,16 +2609,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.476308000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.628234000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.773955000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.224445000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 58
+    !binary "aWQ=": 57
     !binary "cHJvamVjdF9pZA==": 9412
     !binary "dGl0bGU=": ! 'National Institution Building Project - NIBP UNDP contribution
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo UNDP per il National Institution
       Building Project - NIBP
 
@@ -2622,7 +2634,6 @@
     !binary "YW1vdW50": ! '2.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Programme (UNDP)
 
 '
@@ -2656,16 +2667,18 @@
       and institutional and policy support for implementing required training programmes
       for civil servants established.\LActivities:\LTo be determined within the Cost
       Sharing Agreement discussion\L\n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.480504000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.632824000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.779215000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.228365000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 59
+    !binary "aWQ=": 58
     !binary "cHJvamVjdF9pZA==": 9420
     !binary "dGl0bGU=": ! 'High studies in matters of rule of law
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Alta formazione in discipline legali per l'Afghanistan
       \n"
     !binary "c3VtbWFyeQ==": ! "Within the project 17 tashkill from the Ministry of
@@ -2676,7 +2689,6 @@
     !binary "YW1vdW50": ! '624.383,16
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "UNIVERSITA' PER STRANIERI DI PERUGIA \n"
     !binary "Y2x1c3Rlcg==": ! 'JUSTICE
 
@@ -2698,16 +2710,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.484680000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.637110000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.783332000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.235607000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 60
+    !binary "aWQ=": 59
     !binary "cHJvamVjdF9pZA==": 9430
     !binary "dGl0bGU=": ! 'Afghanistan Subnational Governance Programme - ASGP
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Afghanistan Subnational Governance Programme
       - ASGP
 
@@ -2719,7 +2733,6 @@
     !binary "YW1vdW50": ! '1.961.538,46
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Programme (UNDP)
 
 '
@@ -2752,17 +2765,19 @@
       revenue and improve service delivery.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.488605000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.640328000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.790045000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.241381000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 61
+    !binary "aWQ=": 60
     !binary "cHJvamVjdF9pZA==": 9456
     !binary "dGl0bGU=": ! 'Financial contribution to the development of the national
       health care programs in the provinces of Kabul and Herat
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Finanziamento allo sviluppo di programmi sanitari
       nazionali nelle province di Kabul e Herat-art. 15 \n"
     !binary "c3VtbWFyeQ==": ! 'The aim of the initiative is to support the Ministry
@@ -2775,7 +2790,6 @@
     !binary "YW1vdW50": ! '3.021.450,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Public Health (MoPH)
 
 '
@@ -2803,17 +2817,19 @@
       operative costs and main, training for the Herat Ambulance Service(medical and
       administrative staff). 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.492995000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.643849000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.794823000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.244798000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 62
+    !binary "aWQ=": 61
     !binary "cHJvamVjdF9pZA==": 9456
     !binary "dGl0bGU=": ! 'Financial contribution to the development of the national
       health care programs in the provinces of Kabul and Herat - Local fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Finanziamento allo sviluppo di programmi sanitari
       nazionali nelle province di Kabul e Herat-fondo in loco
 
@@ -2828,7 +2844,6 @@
     !binary "YW1vdW50": ! '828.550,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -2856,17 +2871,19 @@
       operative costs and main, training for the Herat Ambulance Service(medical and
       administrative staff). 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.503629000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.647397000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.799196000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.248867000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 63
+    !binary "aWQ=": 62
     !binary "cHJvamVjdF9pZA==": 9456
     !binary "dGl0bGU=": ! 'Financial contribution to the development of the national
       health care programs in the provinces of Kabul and Herat - Expert fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Finanziamento allo sviluppo di programmi sanitari
       nazionali nelle province di Kabul e Herat-fondo esperti
 
@@ -2881,7 +2898,6 @@
     !binary "YW1vdW50": ! '1.383.500,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -2909,16 +2925,18 @@
       operative costs and main, training for the Herat Ambulance Service(medical and
       administrative staff). 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.508695000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.651087000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.805235000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.269239000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 64
+    !binary "aWQ=": 63
     !binary "cHJvamVjdF9pZA==": 9465
     !binary "dGl0bGU=": ! 'Support to Agriculture and Rural Development (SARD)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Supporto ad Agricoltura e Sviluppo Rurale (SASR)-dono
       al governo art. 15 dpr 177/88 \n"
     !binary "c3VtbWFyeQ==": ! 'The aim of the initiative is to support Ministry of
@@ -2932,7 +2950,6 @@
     !binary "YW1vdW50": ! '2.500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Agriculture Irrigation and Livestock
       (MAIL)
 
@@ -2964,17 +2981,19 @@
       infrastructures to be realized.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.513589000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.656837000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.809275000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.273008000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 65
+    !binary "aWQ=": 64
     !binary "cHJvamVjdF9pZA==": 9465
     !binary "dGl0bGU=": ! 'Support to Agriculture and Rural Development (SARD) - Expert
       fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Supporto ad Agricoltura e Sviluppo Rurale (SASR)-dono
       al governo art. 15 dpr 177/88 - Fondo esperti
 
@@ -2990,7 +3009,6 @@
     !binary "YW1vdW50": ! '813.150,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -3021,17 +3039,19 @@
       infrastructures to be realized.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.518042000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.667476000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.813871000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.277010000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 66
+    !binary "aWQ=": 65
     !binary "cHJvamVjdF9pZA==": 9465
     !binary "dGl0bGU=": ! 'Support to Agriculture and Rural Development (SARD) - Local
       fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Supporto ad Agricoltura e Sviluppo Rurale (SASR)-dono
       al governo art. 15 dpr 177/88 - Fondo in loco
 
@@ -3047,7 +3067,6 @@
     !binary "YW1vdW50": ! '735.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -3078,17 +3097,19 @@
       infrastructures to be realized.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.522252000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.672423000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.819267000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.280742000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 67
+    !binary "aWQ=": 66
     !binary "cHJvamVjdF9pZA==": 9465
     !binary "dGl0bGU=": ! 'Support to Agriculture and Rural Development (SARD) - contribution
       to UNDP
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Supporto ad Agricoltura e Sviluppo Rurale (SASR)-
       contributo a UNDP
 
@@ -3104,7 +3125,6 @@
     !binary "YW1vdW50": ! '2.500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Programme (UNDP)
 
 '
@@ -3135,16 +3155,18 @@
       infrastructures to be realized.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.526602000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.692116000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.823409000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.283748000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Farah
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 68
+    !binary "aWQ=": 67
     !binary "cHJvamVjdF9pZA==": 9484
     !binary "dGl0bGU=": ! 'High level training for Afghan diplomats
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Corso intensivo per diplomatici afghani \n"
     !binary "c3VtbWFyeQ==": ! "The project aimed at training the new class of Afghan
       diplomats through short training courses carried out in Italy at the School
@@ -3154,7 +3176,6 @@
     !binary "YW1vdW50": ! '251.913,20
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Scuola Superiore della Pubblica Amministrazione
 
 '
@@ -3176,16 +3197,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.530713000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.696383000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.830738000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.290243000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 69
+    !binary "aWQ=": 68
     !binary "cHJvamVjdF9pZA==": 9484
     !binary "dGl0bGU=": ! 'High level training for Afghan diplomats II
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Corso intensivo per diplomatici afghani II
 
 '
@@ -3197,7 +3220,6 @@
     !binary "YW1vdW50": ! '278.887,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Scuola Superiore della Pubblica Amministrazione
 
 '
@@ -3219,16 +3241,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.541618000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.708176000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.835314000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.296738000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 70
+    !binary "aWQ=": 69
     !binary "cHJvamVjdF9pZA==": 9500
     !binary "dGl0bGU=": ! 'Support to the pediatric hospital of Herat - Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sostegno all'ospedale pediatrico di Herat -
       Afghanistan \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -3238,7 +3262,6 @@
     !binary "YW1vdW50": ! '279.676,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Associazione italiana per la solidarieta'' tra
       i popoli (AISPO)
 
@@ -3263,16 +3286,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.547212000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.713155000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.839629000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.300806000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 71
+    !binary "aWQ=": 70
     !binary "cHJvamVjdF9pZA==": 9500
     !binary "dGl0bGU=": ! 'Support to the pediatric hospital of Herat - Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sostegno all'ospedale pediatrico di Herat -
       Afghanistan \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -3282,7 +3307,6 @@
     !binary "YW1vdW50": ! '18.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Associazione italiana per la solidarieta'' tra
       i popoli (AISPO)
 
@@ -3307,17 +3331,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.552246000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.717257000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.843993000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.305759000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 72
+    !binary "aWQ=": 71
     !binary "cHJvamVjdF9pZA==": 9501
     !binary "dGl0bGU=": ! 'Support to the National Rural Access Programme in the Western
       region of Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sostegno al programma national rural access
       programme nella regione occidentale dell'Afghanistan \n"
     !binary "c3VtbWFyeQ==": ! "• Rehabilitation of Shindand to Azizabad Road (12 kms
@@ -3329,7 +3355,6 @@
     !binary "YW1vdW50": ! '7.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Office for Project Service (UNOPS)
 
 '
@@ -3356,17 +3381,19 @@
       a priority the roads classified as second level in Herat Province. 2- i) Increased
       the level of employment through activities that require the utilization of local
       manpower; ii) Economic and social conditions improved in the area. \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.557551000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.721027000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.847869000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.309045000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 73
+    !binary "aWQ=": 72
     !binary "cHJvamVjdF9pZA==": 9501
     !binary "dGl0bGU=": ! 'Support to the National Rural Access Programme in the Western
       region of Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sostegno al programma national rural access
       programme nella regione occidentale dell'Afghanistan \n"
     !binary "c3VtbWFyeQ==": ! "• Rehabilitation of Shindand to Azizabad Road (12 kms
@@ -3378,7 +3405,6 @@
     !binary "YW1vdW50": ! '5.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Office for Project Service (UNOPS)
 
 '
@@ -3405,17 +3431,19 @@
       a priority the roads classified as second level in Herat Province. 2- i) Increased
       the level of employment through activities that require the utilization of local
       manpower; ii) Economic and social conditions improved in the area. \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.591530000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.725471000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.851847000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.312165000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 74
+    !binary "aWQ=": 73
     !binary "cHJvamVjdF9pZA==": 9507
     !binary "dGl0bGU=": ! 'Public health emergency response in favour of the vulnerable
       populations of the Herat province and surrounding areas
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Iniziativa di emergenza nel settore sanitario
       in favore delle popolazioni vulnerabili della provincia di Herat e aree limitrofe
       \n"
@@ -3426,7 +3454,6 @@
     !binary "YW1vdW50": ! '1.500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -3450,17 +3477,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.596091000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.729004000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.855891000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.315894000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 75
+    !binary "aWQ=": 74
     !binary "cHJvamVjdF9pZA==": 9521
     !binary "dGl0bGU=": ! 'Emergency initiative in support of vulnerable population
       living in Herat and surrounding Afghan provinces
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Iniziativa di emergenza in favore delle popolazioni
       vulenrabili di Herat e provincie limitrofe \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -3470,7 +3499,6 @@
     !binary "YW1vdW50": ! '3.500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -3494,79 +3522,63 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.601063000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.733225000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.860465000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.321334000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 76
+    !binary "aWQ=": 75
     !binary "cHJvamVjdF9pZA==": 9532
-    !binary "dGl0bGU=": ! 'Afghanistan Peace and Reintegration Programme - APRP
-
-'
-    !binary "c3RyaW5n": 
-    !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Afghanistan Peace and Reintegration Programme
+    !binary "dGl0bGU=": Afghanistan Peace and Reintegration Programme - APRP
+    !binary "dGl0bGVfb3JpZ19sYW5n": Afghanistan Peace and Reintegration Programme
       - APRP
-
-'
-    !binary "c3VtbWFyeQ==": ! 'Promotes the reintegration of armed anti-governmental
+    !binary "c3VtbWFyeQ==": ! "Promotes the reintegration of armed anti-governmental
       people who have renounced to violence and conflict against the Afghan State.
       It works by targeting an increase in employment (e.g. infrastructures for the
-      province of Herat). Funded by 2010 
-'
-    !binary "Y2hhbm5lbA==": ! "MULTILATERAL \n"
-    !binary "YW1vdW50": ! '4.000.000,00
-
-'
-    !binary "aW50ZWdlcg==": 
-    !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Development Programme (UNDP)
-
-'
-    !binary "Y2x1c3Rlcg==": ! 'SECURITY
-
-'
-    !binary "bnBw": ! 'NPP 1 Peace and Reintegration
-
-'
-    !binary "c3RhdHVz": ! 'ACTIVE
-
-'
-    !binary "cHJvdmluY2Vz": ! 'Herat, Farah, Ghor
-
-'
+      province of Herat). Funded by 2010\L\r\n"
+    !binary "Y2hhbm5lbA==": ! 'MULTILATERAL '
+    !binary "YW1vdW50": ''
+    !binary "aW1wbGVtZW50ZXI=": United Nations Development Programme (UNDP)
+    !binary "Y2x1c3Rlcg==": SECURITY
+    !binary "bnBw": NPP 1 Peace and Reintegration
+    !binary "c3RhdHVz": ACTIVE
+    !binary "cHJvdmluY2Vz": Herat, Farah, Ghor
     !binary "c3RhcnRfZGF0ZQ==": 2010-08-01
     !binary "ZW5kX2RhdGU=": 2015-07-31
-    !binary "b2JqZWN0aXZl": ! 'The main objective is to promote peace through a political
+    !binary "b2JqZWN0aXZl": ! "The main objective is to promote peace through a political
       approach, encouraging regional and international cooperation, creating the political
       and judicial conditions for peace and reconciliation, encouraging combatant
       foot soldiers and commanders, who previously sided with armed opposition and
       extremist groups to renounce violence and terrorism, to live within the laws
-      of Afghanistan, and to join a constructive process of reintegration and peace.
-
-'
-    !binary "cmVzdWx0cw==": ! '1) Afghan government line ministries, critical institutions,
+      of Afghanistan, and to join a constructive process of reintegration and peace.\r\n"
+    !binary "cmVzdWx0cw==": ! "1) Afghan government line ministries, critical institutions,
       and provincial actors are able to effectively carry out their mandate activities
-      under APRP;       2) Social outreach, and awareness regarding the APRP programme is achieved across
-      the the country;       3) The Joint Secretariat, the implementing and coordinating body, achieves its
-      objectives. Under its supervision, ex combatants are demobilized, provided initial
-      reintegration packages and their grievances are resolved;       4) Alternative livelihood projects are able to benefit reintegrees and reinforce
-      peace through sustainable income generation opportunities.       5) Communities are stabilized and living conditions improve due to the implementation
-      of community development programmes.       The cumulative effect of the abovementioned listed results is that the country
-      becomes increasingly peaceful, and communities are able to transition to a more
-      stable society. This would lead to conditions that support economic growth and
-      higher standard of living.
+      under APRP;\L2) Social outreach, and awareness regarding the APRP programme
+      is achieved across the the country;\L3) The Joint Secretariat, the implementing
+      and coordinating body, achieves its objectives. Under its supervision, ex combatants
+      are demobilized, provided initial reintegration packages and their grievances
+      are resolved;\L4) Alternative livelihood projects are able to benefit reintegrees
+      and reinforce peace through sustainable income generation opportunities.\L5)
+      Communities are stabilized and living conditions improve due to the implementation
+      of community development programmes.\LThe cumulative effect of the abovementioned
+      listed results is that the country becomes increasingly peaceful, and communities
+      are able to transition to a more stable society. This would lead to conditions
+      that support economic growth and higher standard of living.\r\n"
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.869441000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.327990000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Farah, Ghor
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.605235000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.736598000 Z
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 77
+    !binary "aWQ=": 76
     !binary "cHJvamVjdF9pZA==": 9543
     !binary "dGl0bGU=": ! 'Voluntary contribution to ficross for humanitarian assistance
       programme in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario alla FICROSS per programma
       di assistenza umanitaria in Afghanistan (legge n. 30 del 5 marzo 2010) \n"
     !binary "c3VtbWFyeQ==": ! 'Project for the provision of relief assistance (food
@@ -3579,7 +3591,6 @@
     !binary "YW1vdW50": ! '600.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "FICROSS \n"
     !binary "Y2x1c3Rlcg==": ! 'HUMANITARIAN AID
 
@@ -3602,17 +3613,19 @@
       programme is achieved across the the country;
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.609314000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.745761000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.873661000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.371710000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 78
+    !binary "aWQ=": 77
     !binary "cHJvamVjdF9pZA==": 9544
     !binary "dGl0bGU=": ! 'Integrated approach to reduce the violence against women
       in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Approccio integrato per la riduzione della
       violenza contro le donne in Afghanistan \n"
     !binary "c3VtbWFyeQ==": ! 'The project aims at improving the rural women access
@@ -3624,7 +3637,6 @@
     !binary "YW1vdW50": ! '716.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "Actionaid International Italia ONLUS \n"
     !binary "Y2x1c3Rlcg==": ! 'GENDER
 
@@ -3653,17 +3665,19 @@
       at local level to reduce violence against women guided by national laws.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.613813000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.751050000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.879175000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.375494000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 79
+    !binary "aWQ=": 78
     !binary "cHJvamVjdF9pZA==": 9569
     !binary "dGl0bGU=": ! 'Voluntary contribution to UNICEF for emergency intervention
       in education and hygiene sectors in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario all'UNICEF per intervento
       settori dell'istruzione e dell'igiene in Afghanistan (legge n.30 del 5 marzo
       2010) \n"
@@ -3674,7 +3688,6 @@
     !binary "YW1vdW50": ! '900.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Children''s Fund (UNICEF)
 
 '
@@ -3699,17 +3712,19 @@
       reintegrees and reinforce peace through sustainable income generation opportunities.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.618138000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.755130000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.883905000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.379419000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 80
+    !binary "aWQ=": 79
     !binary "cHJvamVjdF9pZA==": 9590
     !binary "dGl0bGU=": ! 'Intensive training course for young Afghan officers of
       public administration
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Corso intensivo per funzionari della pubblica
       amministrazione afgana centrale e regionale \n"
     !binary "c3VtbWFyeQ==": ! 'About 30 young tashkill of Herat PGO and the provincial
@@ -3723,7 +3738,6 @@
     !binary "YW1vdW50": ! '367.765,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Universita'' Roma 2 Tor Vergata
 
 '
@@ -3746,16 +3760,18 @@
       improve due to the implementation of community development programmes.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.621682000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.761708000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.888285000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.382787000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 81
+    !binary "aWQ=": 80
     !binary "cHJvamVjdF9pZA==": 9594
     !binary "dGl0bGU=": ! 'Cooperation office Kabul
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Utl Kabul spese di funzionamento dal 2011 \n"
     !binary "c3VtbWFyeQ==": ! '
 
@@ -3764,7 +3780,6 @@
     !binary "YW1vdW50": ! '541.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -3791,17 +3806,19 @@
       support economic growth and higher standard of living.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.632302000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.765857000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.892544000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.388388000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 82
+    !binary "aWQ=": 81
     !binary "cHJvamVjdF9pZA==": 9595
     !binary "dGl0bGU=": ! 'Support program to the Herat provincial administration
       - Local fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Programma di sostegno all'amministrazione provinciale
       di Herat-fondo in loco \n"
     !binary "c3VtbWFyeQ==": ! 'The project aims at strengthening Herat Governorate
@@ -3814,7 +3831,6 @@
     !binary "YW1vdW50": ! '360.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -3844,17 +3860,19 @@
       municipality, community institutions) strengthened.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.636464000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.770421000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.897014000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.394696000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 83
+    !binary "aWQ=": 82
     !binary "cHJvamVjdF9pZA==": 9595
     !binary "dGl0bGU=": ! 'Support program to the Herat provincial administration
       - Expert fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Programma di sostegno all''amministrazione
       provinciale di Herat-fondo esperti
 
@@ -3869,7 +3887,6 @@
     !binary "YW1vdW50": ! '480.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -3899,17 +3916,19 @@
       municipality, community institutions) strengthened.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.640582000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.774181000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.904323000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.399209000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 84
+    !binary "aWQ=": 83
     !binary "cHJvamVjdF9pZA==": 9604
     !binary "dGl0bGU=": ! 'Support to the medical-surgical, obstetrics-gynecology
       and training of the national staff of emergency in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sost all'attivita' medico-chirurgica, ostetrico
       ginecologica e formaz personale sanitario nazionale di nelle strutture Emergency
       in Afghanistan \n"
@@ -3920,7 +3939,6 @@
     !binary "YW1vdW50": ! '306.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'EMERGENCY - Life Support for Civilian War Victims
 
 '
@@ -3944,17 +3962,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.645087000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.777816000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.908760000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.403320000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 85
+    !binary "aWQ=": 84
     !binary "cHJvamVjdF9pZA==": 9618
     !binary "dGl0bGU=": ! 'Voluntary contribution to ICRC to support the physical
       rehabilitation activities in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario al CICR per sostegno
       alle cliniche ortopediche gestite dal comitato in Afghanistan. L. 126 del 3
       agosto 201o \n"
@@ -3965,7 +3985,6 @@
     !binary "YW1vdW50": ! '900.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "International Committee of the Red Cross (ICRC)
       \n"
     !binary "Y2x1c3Rlcg==": ! 'HUMANITARIAN AID
@@ -3988,17 +4007,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.650976000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.787570000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.913784000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.407073000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 86
+    !binary "aWQ=": 85
     !binary "cHJvamVjdF9pZA==": 9620
     !binary "dGl0bGU=": ! 'Voluntary contribution to WHO for health programme aimed
       to fight tuberculosis in Western Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario all'OMS per programma
       di contrasto alla tubercolosi in Afghanistan occidentale. L. 126, 3/08/2010
       \n"
@@ -4009,7 +4030,6 @@
     !binary "YW1vdW50": ! '800.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'World Health Organization (WHO)
 
 '
@@ -4033,17 +4053,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.655023000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.792437000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.917804000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.413752000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 87
+    !binary "aWQ=": 86
     !binary "cHJvamVjdF9pZA==": 9635
     !binary "dGl0bGU=": ! 'Development of road system for rural accessibility in region
       west of Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sviluppo della rete stradale di accessibilita'
       rurale nella regione ovest dell'Afghanistan \n"
     !binary "c3VtbWFyeQ==": ! "The bypass of Herat is a 49 km national road and is
@@ -4055,7 +4077,6 @@
     !binary "YW1vdW50": ! '14.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Public Works (MoPW)
 
 '
@@ -4083,17 +4104,19 @@
       the services increased; 3- Commercial opportunities increased.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.659086000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.798244000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.922417000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.416843000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 88
+    !binary "aWQ=": 87
     !binary "cHJvamVjdF9pZA==": 9635
     !binary "dGl0bGU=": ! 'Development of road system for rural accessibility in region
       west of Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sviluppo della rete stradale di accessibilita'
       rurale nella regione ovest dell'Afghanistan \n"
     !binary "c3VtbWFyeQ==": ! "The bypass of Herat is a 49 km national road and is
@@ -4105,7 +4128,6 @@
     !binary "YW1vdW50": ! '10.600.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Public Works (MoPW)
 
 '
@@ -4133,17 +4155,19 @@
       the services increased; 3- Commercial opportunities increased.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.670489000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.802153000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.927299000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.424041000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 89
+    !binary "aWQ=": 88
     !binary "cHJvamVjdF9pZA==": 9686
     !binary "dGl0bGU=": ! 'Theoretical and pratical training project for capacity
       building in urban planning through the development of a masterplan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Progetto di formazione teorico-sperimentale
       sviluppo pianificazione territoriale, attraverso la preparazione di masterplan
       \n"
@@ -4153,7 +4177,6 @@
     !binary "YW1vdW50": ! '476.650,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Agriculture Irrigation and Livestock
       (MAIL)
 
@@ -4176,16 +4199,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.675159000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.806687000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.931247000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.431687000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 90
+    !binary "aWQ=": 89
     !binary "cHJvamVjdF9pZA==": 9693
     !binary "dGl0bGU=": ! 'Master in urban analysis and management
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Formazione di figure professionali in urban
       analysis and management-master \n"
     !binary "c3VtbWFyeQ==": ! 'This project was aimed at developing the capacity of
@@ -4198,7 +4223,6 @@
     !binary "YW1vdW50": ! '214.580,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Universita'' degli Studi di Firenze
 
 '
@@ -4220,17 +4244,19 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.679941000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.810836000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.935332000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.435087000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 91
+    !binary "aWQ=": 90
     !binary "cHJvamVjdF9pZA==": 9751
     !binary "dGl0bGU=": ! 'UNICEF- Voluntary contribution for intervention in the
       maternal-child care sector in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "UNICEF. Contributo volontario per intervento
       settore della salute materno-infantile in Afghanistan. Legge n.9 - 22 febbraio
       2011 \n"
@@ -4242,7 +4268,6 @@
     !binary "YW1vdW50": ! '500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Children''s Fund (UNICEF)
 
 '
@@ -4277,17 +4302,19 @@
       to pregnancy and infants.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.684301000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.815620000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.942998000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.438263000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 92
+    !binary "aWQ=": 91
     !binary "cHJvamVjdF9pZA==": 9752
     !binary "dGl0bGU=": ! 'Afghanistan: training activities and support for Afghan
       civil society in the process of national reconstruction and reconciliation
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Afghanistan: attivita' di formazione e di sostegno
       alla societa' civile afgana nel processo di ricostruzione e riconciliazione
       n \n"
@@ -4301,7 +4328,6 @@
     !binary "YW1vdW50": ! '300.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Arci Cultura e Sviluppo (ARCS)
 
 '
@@ -4323,16 +4349,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.688294000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.826498000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.947562000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.441748000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Herat, Balkh, Nangarhar
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 93
+    !binary "aWQ=": 92
     !binary "cHJvamVjdF9pZA==": 9760
     !binary "dGl0bGU=": ! 'Sustainable return and reintegration of Afghan returnees
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo multibilaterale UNHCR - assistenza
       e la reintegrazione della popolazione afghana rientrata nel paese di origine
       \n"
@@ -4347,7 +4375,6 @@
     !binary "YW1vdW50": ! '2.100.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations High Commissioner for Refugees (UNHCR)
 
 '
@@ -4384,15 +4411,17 @@
       roads, and rehabilitation/ construction of protection walls.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.692376000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.832838000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.951680000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.450687000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Herat, Bamyan
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 94
+    !binary "aWQ=": 93
     !binary "cHJvamVjdF9pZA==": 9760
     !binary "dGl0bGU=": ! "FONDO IN LOCO PER L'ASSISTENZA TECNICA E IL MONITORAGGIO.
       \n"
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'SUSTAINABLE RETURN AND REINTEGRATION OF AFGHAN
       RETURNEES
 
@@ -4408,7 +4437,6 @@
     !binary "YW1vdW50": ! '100.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -4445,17 +4473,19 @@
       roads, and rehabilitation/ construction of protection walls.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.697501000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.837382000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.956823000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.460537000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Herat, Bamyan
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 95
+    !binary "aWQ=": 94
     !binary "cHJvamVjdF9pZA==": 9768
     !binary "dGl0bGU=": ! 'Voluntary contribution to UNICEF for humanitarian intervention
       in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo volontario d''emergenza all''UNICEF
       per intervento umanitario in Afghanistan
 
@@ -4470,7 +4500,6 @@
     !binary "YW1vdW50": ! '900.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Children''s Fund (UNICEF)
 
 '
@@ -4503,17 +4532,19 @@
       preparedness and response with focus on mitigating effects of drought/floods.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.701973000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.842745000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.961513000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.465685000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Badghis
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 96
+    !binary "aWQ=": 95
     !binary "cHJvamVjdF9pZA==": 9808
     !binary "dGl0bGU=": ! 'Support to the Afghan infrastructure development strategy
       - contribution to UNOPS
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sostegno alla strategia di sviluppo afghana
       nel settore infrastrutturale - contributo UNOPS \n"
     !binary "c3VtbWFyeQ==": ! 'From a quantitative point of view, the major area of
@@ -4527,7 +4558,6 @@
     !binary "YW1vdW50": ! '1.822.035,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Office for Project Service (UNOPS)
 
 '
@@ -4558,17 +4588,19 @@
       Works (MoPW).
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.711075000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.849152000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.966185000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.469394000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Bamyan, Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 97
+    !binary "aWQ=": 96
     !binary "cHJvamVjdF9pZA==": 9808
     !binary "dGl0bGU=": ! 'Support to the Afghan infrastructure development strategy
       - local fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Sostegno alla strategia di sviluppo afghana
       nel settore infrastrutturale - fondo in loco
 
@@ -4584,7 +4616,6 @@
     !binary "YW1vdW50": ! '120.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -4615,17 +4646,19 @@
       Works (MoPW).
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.716438000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.853671000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.970559000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.473776000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Bamyan, Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 98
+    !binary "aWQ=": 97
     !binary "cHJvamVjdF9pZA==": 9808
     !binary "dGl0bGU=": ! 'Support to the Afghan infrastructure development strategy
       - expert fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Sostegno alla strategia di sviluppo afghana
       nel settore infrastrutturale - fondo esperti
 
@@ -4641,7 +4674,6 @@
     !binary "YW1vdW50": ! '875.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -4672,17 +4704,19 @@
       Works (MoPW).
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.721002000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.857640000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.974508000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.477644000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Bamyan, Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 99
+    !binary "aWQ=": 98
     !binary "cHJvamVjdF9pZA==": 9891
     !binary "dGl0bGU=": ! 'Support to UNESCO country program for Afghanistan (grant
       2012)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Sostegno al programma paese UNESCO per l''Afghanistan
       (contributo 2012)
 
@@ -4701,7 +4735,6 @@
     !binary "YW1vdW50": ! '900.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Educational Scientific and Cultural
       Organization (UNESCO)
 
@@ -4732,17 +4765,19 @@
       of artifacts/site interpretation at Shar-e-Gholghola.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.725813000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.861729000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.980741000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.481349000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Bamyan, Ghazni, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 100
+    !binary "aWQ=": 99
     !binary "cHJvamVjdF9pZA==": 9908
     !binary "dGl0bGU=": ! 'Humanitarian demining to assist the government to increase
       its capacity and develop necessary structures and standards
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sminamento umanitario - contributo volontario
       a UNMAS per sminamento Afghanistan per attivita volte a supportare il governo
       \n"
@@ -4758,7 +4793,6 @@
     !binary "YW1vdW50": ! '500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "United Nations Mine Action Service (UNMAS) \n"
     !binary "Y2x1c3Rlcg==": ! 'HUMANITARIAN AID
 
@@ -4786,17 +4820,19 @@
       Program.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.730954000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.867031000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.986331000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.495549000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'country-wide
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 101
+    !binary "aWQ=": 100
     !binary "cHJvamVjdF9pZA==": 9908
     !binary "dGl0bGU=": ! 'Humanitarian demining to assist the government to increase
       its capacity and develop necessary structures and standards
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Sminamento umanitario - contributo volontario
       a UNMAS per sminamento Afghanistan per attivita volte a supportare il governo
       \n"
@@ -4812,7 +4848,6 @@
     !binary "YW1vdW50": ! '200.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "United Nations Mine Action Service (UNMAS) \n"
     !binary "Y2x1c3Rlcg==": ! 'HUMANITARIAN AID
 
@@ -4840,17 +4875,19 @@
       Program.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.735429000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.871204000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.991168000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.500104000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'country-wide
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 102
+    !binary "aWQ=": 101
     !binary "cHJvamVjdF9pZA==": 9918
     !binary "dGl0bGU=": ! 'Emergency initiative aiming at assisting vulnerable people
       in Herat and other Afghan provinces- local fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Fondo in loco - iniziativa di emergenza in
       favore delle popolazioni vulnerabili della citta di Herat e aree limitrofe \n"
     !binary "c3VtbWFyeQ==": ! "The project aims at improving people life conditions
@@ -4861,7 +4898,6 @@
     !binary "YW1vdW50": ! '2.950.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -4891,17 +4927,19 @@
       in emergency or natural disasters.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.740236000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.876645000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.995590000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.508053000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 103
+    !binary "aWQ=": 102
     !binary "cHJvamVjdF9pZA==": 9918
     !binary "dGl0bGU=": ! 'Emergency initiative aiming at assisting vulnerable people
       in Herat and other Afghan provinces- expert fund
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Fondo esperti - iniziativa di emergenza in
       favore delle popolazioni vulnerabili della citta di Herat e aree limitrofe \n"
     !binary "c3VtbWFyeQ==": ! "The project aims at improving people life conditions
@@ -4912,7 +4950,6 @@
     !binary "YW1vdW50": ! '50.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Direzione Generale Cooperazione allo Sviluppo (DGCS)
 
 '
@@ -4942,17 +4979,19 @@
       in emergency or natural disasters.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.744930000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.881675000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:27.999536000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.512253000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 104
+    !binary "aWQ=": 103
     !binary "cHJvamVjdF9pZA==": 9923
     !binary "dGl0bGU=": ! 'Expansion and consolidation of Educational Radio and Tv
       (ERTV) broadcast capacities for distance education in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Contributo volontario all''UNESCO per sostegno
       alle attivita'' di educazione a distanza tramite l''ERTV
 
@@ -4966,7 +5005,6 @@
     !binary "YW1vdW50": ! '920.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Educational Scientific and Cultural
       Organization (UNESCO)
 
@@ -5001,17 +5039,19 @@
       education programmes in the remote areas.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.754423000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.885597000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.004189000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.515974000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'country-wide
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 105
+    !binary "aWQ=": 104
     !binary "cHJvamVjdF9pZA==": 9927
     !binary "dGl0bGU=": ! 'Strengthening the management, clinical, training and research
       of the Esteqlal hospital and Herat pediatric hospital
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo volontario all'OMS per il rafforzamento
       delle attivita' del Ministero della salute pubblica \n"
     !binary "c3VtbWFyeQ==": ! 'The aims of the Project are: 1. to establish essential
@@ -5025,7 +5065,6 @@
     !binary "YW1vdW50": ! '750.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'World Health Organization (WHO)
 
 '
@@ -5060,17 +5099,19 @@
       health system externalities of the TB WHO –Italian Cooperation Partnership are
       evaluated. 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.758673000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.889981000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.008536000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.522227000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 106
+    !binary "aWQ=": 105
     !binary "cHJvamVjdF9pZA==": 9928
     !binary "dGl0bGU=": ! 'Italian contribution to the Third Emergency National Solidarity
       Programme (NSP III) in the provinces of Herat, Ghor and Bamyan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo Italiano alla terza fase del National
       Solidarity Programme (NSP III) - art. 15 \n"
     !binary "c3VtbWFyeQ==": ! 'The action aims at contributing to the Afghan national
@@ -5083,7 +5124,6 @@
     !binary "YW1vdW50": ! '6.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Rural Rehabilitation and Development
       (MRRD)
 
@@ -5113,16 +5153,18 @@
       to manage the program through the FPs support.                                   A2.
       \ Implementation of the sub-projects (blockgrants).             A3. Support
       to Ministry of Rural Rehabilitation and Development (MRRD)/NSP structure. \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.764144000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.894206000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.037734000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.528634000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Ghor, Bamyan
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 107
+    !binary "aWQ=": 106
     !binary "cHJvamVjdF9pZA==": 9935
     !binary "dGl0bGU=": ! 'Communication for development in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Comunicazione per lo sviluppo in Afghanistan
       \n"
     !binary "c3VtbWFyeQ==": ! 'Communication and promotion activites of Italian Development
@@ -5133,7 +5175,6 @@
     !binary "YW1vdW50": ! '160.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -5164,17 +5205,19 @@
       on television and transmitted on radio channels.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.770015000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.903381000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.043035000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.532448000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 108
+    !binary "aWQ=": 107
     !binary "cHJvamVjdF9pZA==": 9948
     !binary "dGl0bGU=": ! 'Reinforcing women employment through professional and vocational
       training an the private sector
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Reinforcing women employment through professional
       and vocational training and  the private sector
 
@@ -5187,7 +5230,6 @@
     !binary "YW1vdW50": ! '930.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Embassy of Italy in Kabul
 
 '
@@ -5215,17 +5257,19 @@
       society and especially by NGOs;       - Support for the activities of income generation through micro credits.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.775131000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.907858000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.047672000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.535739000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Herat, Ghor, Bamyan, Badakhshan
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 109
+    !binary "aWQ=": 108
     !binary "cHJvamVjdF9pZA==": 9963
     !binary "dGl0bGU=": ! 'Improvement of medical-surgical/obstetric-gynecology assistance
       by strenghtening training of local employed staff in Afghanistan
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Aumento qualita assistenza medico-chirurgica/ostetrico-ginecologica
       attraverso formazione personale sanitario locale in Afghanistan
 
@@ -5238,7 +5282,6 @@
     !binary "YW1vdW50": ! '1.161.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'EMERGENCY - Life Support for Civilian War Victims
 
 '
@@ -5262,16 +5305,18 @@
     !binary "cmVzdWx0cw==": ! '
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.779451000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.912453000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.068280000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.545612000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Lashkar Gah, Parwan
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 110
+    !binary "aWQ=": 109
     !binary "cHJvamVjdF9pZA==": 10006
     !binary "dGl0bGU=": ! 'Supporting NRAP program- contribution 2013
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Sostegno al programma nazionale afghano per
       l''accessibilita'' rurale - contributo 2013
 
@@ -5285,7 +5330,6 @@
     !binary "YW1vdW50": ! '2.500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Office for Project Service (UNOPS)
 
 '
@@ -5315,17 +5359,19 @@
       as for quick impact communitarian interventions.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.783653000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.917598000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.075150000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.549225000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Kabul, Bamyan, Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 111
+    !binary "aWQ=": 110
     !binary "cHJvamVjdF9pZA==": 10008
     !binary "dGl0bGU=": ! 'Training of professionals in urban analysis and management
       in Herat
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Formazione di figure professionali specializzate
       in urban analysis e management a favore del personale heratino
 
@@ -5344,7 +5390,6 @@
     !binary "YW1vdW50": ! '80.242,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Universita'' degli Studi di Firenze
 
 '
@@ -5372,17 +5417,19 @@
       Debate on the territory planning \LR5. Experts with a common teorical and methodological
       approach to the territory governance prepared to improve the local territory
       governance. \L\L\L\n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.795177000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.922683000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.079367000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.555195000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 112
+    !binary "aWQ=": 111
     !binary "cHJvamVjdF9pZA==": 10020
     !binary "dGl0bGU=": ! 'Support to UNESCO country program for Afghanistan (grant
       2013)
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Sostegno al programma paese dell''UNESCO nel
       settore del patrimonio culturale (contributo 2013)
 
@@ -5394,7 +5441,6 @@
     !binary "YW1vdW50": ! '900.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Educational Scientific and Cultural
       Organization (UNESCO)
 
@@ -5428,15 +5474,17 @@
       system: World Heritage Conservation and Management Training.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.800455000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.926543000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.083829000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.561968000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 113
+    !binary "aWQ=": 112
     !binary "cHJvamVjdF9pZA==": 10022
     !binary "dGl0bGU=": ! "Contribution to UNFPA program in Afghanistan- fighting
       gender based violance \n"
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Sostegno al programma paese dell''UNFPA in
       Afghanistan - lotta al gender based violence
 
@@ -5450,7 +5498,6 @@
     !binary "YW1vdW50": ! '900.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Population Fund (UNFPA)
 
 '
@@ -5480,16 +5527,18 @@
       Their capacity to provide effective and efficient services to the victims of
       GBV in Herat province is improved. \L3.  Increased awareness of the people in
       target communities on prevention and respond to GBV cases. \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.804901000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.930579000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.090853000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.566189000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 114
+    !binary "aWQ=": 113
     !binary "cHJvamVjdF9pZA==": 10024
     !binary "dGl0bGU=": ! 'Development of Integrated Dairy Schemes in Herat
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! ' Contributo volontario FAO per sviluppo di
       sistemi produttivi integrati di piccola scala per la produzione casearia a Herat
 
@@ -5503,7 +5552,6 @@
     !binary "YW1vdW50": ! '290.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Food and Agriculture Organization of the United
       Nations (FAO)
 
@@ -5533,16 +5581,18 @@
       and animal feed products improved. 3) Sustainable  structure for the management
       created. Activities: 1) Milk collection and dairy production; 2) Animal feed
       production; 3) Capacity building of the Herat Livestock Development Union \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.809151000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.934887000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.095003000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.570720000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 115
+    !binary "aWQ=": 114
     !binary "cHJvamVjdF9pZA==": 10055
     !binary "dGl0bGU=": ! 'NSP III phase
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo Italiano alla terza fase del National
       Solidarity Programme (NSP III) nelle province di Farah e Badghis - art. 15 \n"
     !binary "c3VtbWFyeQ==": ! 'The action aims at contributing to the Afghan national
@@ -5555,7 +5605,6 @@
     !binary "YW1vdW50": ! '5.000.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Rural Rehabilitation and Development
       (MRRD)
 
@@ -5589,16 +5638,18 @@
       coordination) and visibility actions. A3.Meetings with FPs, DDAs, italian NGOs
       and support to the technical assistance and visibility activities. A4. Support
       services to the experts and the local contracts. \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.813511000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.943922000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.099051000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.574185000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Farah, Badghis
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 116
+    !binary "aWQ=": 115
     !binary "cHJvamVjdF9pZA==": 10055
     !binary "dGl0bGU=": ! 'NSP III phase - art. 15
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Contributo Italiano alla terza fase del National
       Solidarity Programme (NSP III) nelle province di Farah e Badghis - art. 15 \n"
     !binary "c3VtbWFyeQ==": ! 'The action aims at contributing to the Afghan national
@@ -5611,7 +5662,6 @@
     !binary "YW1vdW50": ! '170.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Ministry of Rural Rehabilitation and Development
       (MRRD)
 
@@ -5645,17 +5695,19 @@
       coordination) and visibility actions. A3.Meetings with FPs, DDAs, italian NGOs
       and support to the technical assistance and visibility activities. A4. Support
       services to the experts and the local contracts. \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.817937000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.949292000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.103256000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.578237000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Farah, Badghis
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 117
+    !binary "aWQ=": 116
     !binary "cHJvamVjdF9pZA==": 10074
     !binary "dGl0bGU=": ! 'Misure urgenti per l''ammodernamento dell''aeroporto di
       Herat a Standard internazionali ICAO
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'URGENT MEASURES FOR HERAT AIRPORT UPGRADE
 
 '
@@ -5671,7 +5723,6 @@
     !binary "YW1vdW50": ! '29.300.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'MoTCA
 
 '
@@ -5699,16 +5750,18 @@
       for complex projects needs.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.821923000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.953695000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.107794000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.585655000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 118
+    !binary "aWQ=": 117
     !binary "cHJvamVjdF9pZA==": 10074
     !binary "dGl0bGU=": ! 'Urgent measures for Herat airport upgrade
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! 'Misure urgenti per l''ammodernamento dell''aeroporto
       di Herat a standard internazionali icao
 
@@ -5725,7 +5778,6 @@
     !binary "YW1vdW50": ! '1.500.000,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'United Nations Office for Project Service (UNOPS)
 
 '
@@ -5753,15 +5805,17 @@
       for complex projects needs.
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.831967000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.958073000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.116150000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.588691000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 119
+    !binary "aWQ=": 118
     !binary "cHJvamVjdF9pZA==": 10179
     !binary "dGl0bGU=": ! "Precious lives: Integrated project to give their dignity
       back to Afghan Women \n"
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Vite preziose. Progetto integrato per la restituzione
       della dignita alle donne afghane \n"
     !binary "c3VtbWFyeQ==": ! 'The project aims at reducing rights violations of women
@@ -5779,7 +5833,6 @@
     !binary "YW1vdW50": ! '1.499.850,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "Cooperazione per lo sviluppo dei Paesi emergenti
       (COSPE) \n"
     !binary "Y2x1c3Rlcg==": ! 'GENDER
@@ -5809,16 +5862,18 @@
       for their social and economic empowerment, protection and defense of their rights       Planned activities:       - Psychological, medical and legal assistance, family mediation       - Protection of GBV victims in the shelter       - Setting-up of a civil society-government platform       - Mobilization of law students       - Creation of community-based committee to fight violence against women       - Training and sensitization of communities       - Organization of activities in the women’s center of Ashfar       - Training activities in the women’s center
 
 '
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.836292000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.962100000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.157936000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.595162000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat, Kabul
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 120
+    !binary "aWQ=": 119
     !binary "cHJvamVjdF9pZA==": 10180
     !binary "dGl0bGU=": ! 'Children in conflict with legislation and not with law
 
 '
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "ATFAL - Bambini in conflitto con la Legge,
       non con il Diritto \n"
     !binary "c3VtbWFyeQ==": ! '
@@ -5828,7 +5883,6 @@
     !binary "YW1vdW50": ! '543.789,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! "Centro italiano aiuti all'infanzia \n"
     !binary "Y2x1c3Rlcg==": ! 'JUSTICE
 
@@ -5860,15 +5914,17 @@
       Centers in Kabul and Herat. 3) capacity building for all stakeholders from the
       local community, including schools through new didactic methodologies, furniture
       and equipments. \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.840185000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.967263000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.163149000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.602659000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! '
+
+'
 - !ruby/object:Project
   attributes:
-    !binary "aWQ=": 121
+    !binary "aWQ=": 120
     !binary "cHJvamVjdF9pZA==": 10183
     !binary "dGl0bGU=": ! "Support to the good governance and to the rural development
       in Herat Province, Afghanistan. \n"
-    !binary "c3RyaW5n": 
     !binary "dGl0bGVfb3JpZ19sYW5n": ! "Supporto al buon governo ed allo sviluppo rurale
       nella provincia di Herat, Afghanistan \n"
     !binary "c3VtbWFyeQ==": ! "The project intends to strenghten the rural communities
@@ -5878,7 +5934,6 @@
     !binary "YW1vdW50": ! '899.579,00
 
 '
-    !binary "aW50ZWdlcg==": 
     !binary "aW1wbGVtZW50ZXI=": ! 'Organizzazione umanitaria per l''emergenza (INTERSOS)
 
 '
@@ -5902,5 +5957,8 @@
       development initiatives.                  R2. 25 rural development initiatives
       are promoted and implemented by the selected communities.                                          R3.
       Increased promotion and sensitization in the communities. \n"
-    !binary "Y3JlYXRlZF9hdA==": 2014-01-06 17:49:46.844123000 Z
-    !binary "dXBkYXRlZF9hdA==": 2014-01-09 10:07:47.970963000 Z
+    !binary "Y3JlYXRlZF9hdA==": 2014-01-17 17:28:28.167853000 Z
+    !binary "dXBkYXRlZF9hdA==": 2014-02-19 16:23:19.605775000 Z
+    !binary "Z21hcHNfbG9jYXRpb24=": ! 'Herat
+
+'

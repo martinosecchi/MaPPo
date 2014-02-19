@@ -1,27 +1,16 @@
 #load ('write_initial_data.rb')
 
 #Project.all
-progetti=YAML.load(File.read('./data/progettiYAML.txt'))
+progetti=YAML.load(File.read('./data/projects_yaml.txt'))
 
 #array con i name delle locations
 array_loc=["Badakhshan", "Badghis", "Baghlan", "Baglan", "Balkh", "Bamiyan", "Bamyan", "Farah", "Faryab", "Ghazni", "Ghor", "Herat", "Jalalabad", "Jowzian", "Kabul", "Kandahar", "Kapisa", "Kunduz", "Lashkar Gah", "Lowgar", "Nangarhar", "Paktia", "Parwan", "Takhar", "Wardack", "country-wide"]
-
-#leggi i nomi giusti per gmaps dal file e mettili in un array
-a_gmaps=[]
-def riempi(file, array)
-	file.rewind
-	for i in 0...120
-		array[i]=file.readline
-	end
-end
-file_gmaps=File.open('.data/gmaps_loc.txt')
-riempi(file_gmaps, a_gmaps)
 
 #crea Locations
 for i in 0...array_loc.length
 	loc=Location.new
 	loc.name=array_loc[i]
-	loc.state="Afghanistan"
+	loc.country="Afghanistan"
 	loc.save
 end
 
@@ -44,11 +33,9 @@ progetti.each do |p|
 	proj.end_date=p.end_date
 	proj.objective=p.objective
 	proj.results=p.results
-
-	#le province per gmaps le prendo dal file perché vanno sistemate
-	proj.gmaps_location=a_gmaps[i]
+	proj.gmaps_location=p.gmaps_location
+	
 	i+=1
-
 	proj.save
 end
 
@@ -78,6 +65,7 @@ projects.each do |p|
 			else
 				l=Location.new
 				l.name=arraygmap[i]
+				l.country="Afghanistan"
 				l.save
 				p.locations << l
 				p.save

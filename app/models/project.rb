@@ -20,10 +20,12 @@
 #  results         :text
 #  created_at      :datetime         not null
 #  updated_at      :datetime         not null
+#  gmaps_location  :string(255)
 #
 
 class Project < ActiveRecord::Base
   attr_accessible :amount, :channel, :cluster, :end_date, :implementer, :npp, :objective, :project_id, :provinces, :results, :start_date, :status, :summary, :title, :title_orig_lang
+  attr_accessible :gmaps_location
   attr_accessible :locations, :location_ids, :location_attributes
 
   has_many :location_projects
