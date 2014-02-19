@@ -1,4 +1,4 @@
-Afghanistan::Application.routes.draw do
+Mappo::Application.routes.draw do
   
   root to: 'pages#home'
   

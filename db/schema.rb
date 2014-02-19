@@ -46,6 +46,7 @@ ActiveRecord::Schema.define(:version => 20140217124757) do
     t.text     "results"
     t.datetime "created_at",      :null => false
     t.datetime "updated_at",      :null => false
+    t.string   "gmaps_location"
   end
 
   create_table "users", :force => true do |t|

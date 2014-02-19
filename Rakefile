@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Afghanistan::Application.load_tasks
+Mappo::Application.load_tasks

@@ -9,10 +9,8 @@
   	<div class="center">
   	
   	<% if user_signed_in? %>
-		<%= link_to '<button class="btn">Create a New Project</button>'.html_safe, new_project_path %> 
-    <br />
-    or
-	 <br />
+		<%= link_to '<button class="btn">Create a New Project</button>'.html_safe, new_project_path %>
+      
 		<%= link_to '<button class="btn">Add a New Location</button>'.html_safe, new_location_path %>
 	<% else %>	
     	<%= link_to '<button class="btn">Login</button>'.html_safe, new_user_session_path %>
